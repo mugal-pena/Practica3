@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<almacen>
+    <estanterias>
+
+
+        <estanteria numero="1">
+            <balda altura="1">
+                <palet alto="884" ancho="896" cantidadProducto="515" delante="false" idPalet="59002" idProducto="TRUPOSYL TBK-E" largo="740" posicion="1"/>
+                <palet alto="1358" ancho="723" cantidadProducto="854" delante="true" idPalet="14648" idProducto="TRUPOFIN CERA HS" largo="638" posicion="2"/>
+                <palet alto="1197" ancho="945" cantidadProducto="886" delante="false" idPalet="33688" idProducto="TRUPOFIN CERA KT 09" largo="989" posicion="2"/>
+                <palet alto="772" ancho="848" cantidadProducto="811" delante="true" idPalet="26431" idProducto="PASTOSOL DG" largo="869" posicion="4"/>
+                <palet alto="616" ancho="743" cantidadProducto="503" delante="true" idPalet="10742" idProducto="TRUPOCRYL A-32" largo="977" posicion="5"/>
+                <palet alto="1024" ancho="689" cantidadProducto="332" delante="false" idPalet="34744" idProducto="TRUPON DB-80" largo="890" posicion="5"/>
+                <palet alto="1103" ancho="520" cantidadProducto="603" delante="true" idPalet="727" idProducto="TRUPON CST" largo="645" posicion="6"/>
+                <palet alto="595" ancho="572" cantidadProducto="849" delante="false" idPalet="1301" idProducto="TRUPOTEC S" largo="578" posicion="6"/>
+                <palet alto="536" ancho="624" cantidadProducto="591" delante="true" idPalet="96006" idProducto="TRUPOCRYL K-U-310" largo="603" posicion="7"/>
+                <palet alto="1321" ancho="590" cantidadProducto="497" delante="false" idPalet="65991" idProducto="TRUPOFIN CERA CA" largo="639" posicion="9"/>
+                <palet alto="646" ancho="901" cantidadProducto="861" delante="true" idPalet="30174" idProducto="TRUPON COL" largo="910" posicion="10"/>
+                <palet alto="619" ancho="645" cantidadProducto="685" delante="false" idPalet="90483" idProducto="TRUPOSYL TBD" largo="829" posicion="10"/>
+                <palet alto="912" ancho="900" cantidadProducto="860" delante="true" idPalet="9472" idProducto="PASTOSOL KC" largo="668" posicion="11"/>
+                <palet alto="747" ancho="789" cantidadProducto="907" delante="true" idPalet="96755" idProducto="TRUPOCRYL K-U-27" largo="637" posicion="12"/>
+                <palet alto="853" ancho="771" cantidadProducto="737" delante="false" idPalet="12651" idProducto="TRUPOSIST D" largo="673" posicion="13"/>
+                <palet alto="787" ancho="966" cantidadProducto="744" delante="true" idPalet="36026" idProducto="TRUPOSYL TBA" largo="556" posicion="14"/>
+                <palet alto="1361" ancho="768" cantidadProducto="917" delante="false" idPalet="46790" idProducto="TRUPOFIN CERA BT" largo="515" posicion="14"/>
+                <palet alto="1493" ancho="645" cantidadProducto="790" delante="false" idPalet="80695" idProducto="TRUPOCRYL K-U-27" largo="821" posicion="15"/>
+                <palet alto="674" ancho="770" cantidadProducto="400" delante="true" idPalet="84868" idProducto="TRUPON CM" largo="592" posicion="16"/>
+                <palet alto="1131" ancho="850" cantidadProducto="817" delante="true" idPalet="67147" idProducto="TRUPOFIN CERA P" largo="852" posicion="18"/>
+                <palet alto="1037" ancho="705" cantidadProducto="363" delante="true" idPalet="67371" idProducto="TRUPOZYM AB" largo="704" posicion="19"/>
+                <palet alto="1452" ancho="826" cantidadProducto="814" delante="false" idPalet="33932" idProducto="PASTOSOL BCN" largo="846" posicion="19"/>
+                <palet alto="812" ancho="526" cantidadProducto="370" delante="true" idPalet="32519" idProducto="PASTOSOL F" largo="901" posicion="20"/>
+                <palet alto="1175" ancho="951" cantidadProducto="849" delante="false" idPalet="34632" idProducto="TRUPOTEC T" largo="697" posicion="20"/>
+                <palet alto="791" ancho="918" cantidadProducto="499" delante="false" idPalet="86048" idProducto="TRUPOCRYL A-28" largo="700" posicion="21"/>
+                <palet alto="591" ancho="546" cantidadProducto="470" delante="true" idPalet="62288" idProducto="TRUPOTEC T" largo="643" posicion="22"/>
+                <palet alto="736" ancho="750" cantidadProducto="393" delante="false" idPalet="36920" idProducto="TRUPOSIST D" largo="977" posicion="22"/>
+            </balda>
+            <balda altura="2">
+                <palet alto="1339" ancho="968" cantidadProducto="308" delante="true" idPalet="36067" idProducto="TRUPON CST" largo="592" posicion="1"/>
+                <palet alto="1112" ancho="852" cantidadProducto="857" delante="false" idPalet="6877" idProducto="TRUPOSYL ABS" largo="749" posicion="1"/>
+                <palet alto="874" ancho="695" cantidadProducto="919" delante="true" idPalet="62819" idProducto="PASTOSOL F" largo="610" posicion="2"/>
+                <palet alto="694" ancho="879" cantidadProducto="316" delante="false" idPalet="91658" idProducto="TRUPOSOL WBF" largo="684" posicion="2"/>
+                <palet alto="733" ancho="982" cantidadProducto="780" delante="false" idPalet="34334" idProducto="TRUPOSIST S-BO" largo="897" posicion="3"/>
+                <palet alto="712" ancho="535" cantidadProducto="757" delante="false" idPalet="87383" idProducto="TRUPOCRYL K-U-310" largo="734" posicion="4"/>
+                <palet alto="526" ancho="868" cantidadProducto="709" delante="true" idPalet="59400" idProducto="TRUPOFIN CERA HS" largo="914" posicion="5"/>
+                <palet alto="914" ancho="645" cantidadProducto="777" delante="true" idPalet="617" idProducto="TRUPOL RK" largo="537" posicion="6"/>
+                <palet alto="816" ancho="864" cantidadProducto="879" delante="true" idPalet="53142" idProducto="PASTOSOL MD" largo="546" posicion="7"/>
+                <palet alto="1081" ancho="909" cantidadProducto="903" delante="false" idPalet="34051" idProducto="TRUPON CM" largo="804" posicion="7"/>
+                <palet alto="854" ancho="976" cantidadProducto="367" delante="true" idPalet="66859" idProducto="PASTOSOL HW" largo="864" posicion="8"/>
+                <palet alto="1088" ancho="855" cantidadProducto="351" delante="false" idPalet="5224" idProducto="TRUPON PEM" largo="898" posicion="9"/>
+                <palet alto="508" ancho="547" cantidadProducto="755" delante="true" idPalet="43201" idProducto="TRUPOFIN CERA HP" largo="982" posicion="11"/>
+                <palet alto="1491" ancho="923" cantidadProducto="838" delante="false" idPalet="90418" idProducto="TRUPOSYL TBK" largo="948" posicion="12"/>
+                <palet alto="1424" ancho="538" cantidadProducto="945" delante="true" idPalet="37116" idProducto="TRUPOTAN OM" largo="869" posicion="14"/>
+                <palet alto="1059" ancho="768" cantidadProducto="562" delante="false" idPalet="60546" idProducto="TRUPOSYL TBA" largo="588" posicion="14"/>
+                <palet alto="845" ancho="735" cantidadProducto="869" delante="false" idPalet="26672" idProducto="TRUPOCRYL K-A-30" largo="740" posicion="15"/>
+                <palet alto="1100" ancho="527" cantidadProducto="941" delante="true" idPalet="30512" idProducto="ANTIFOAM NSP" largo="795" posicion="16"/>
+                <palet alto="1331" ancho="888" cantidadProducto="640" delante="false" idPalet="51209" idProducto="TRUPOFIN CERA CA" largo="538" posicion="16"/>
+                <palet alto="980" ancho="532" cantidadProducto="647" delante="true" idPalet="12685" idProducto="TRUPOFIN CERA KT 09" largo="517" posicion="17"/>
+                <palet alto="919" ancho="743" cantidadProducto="904" delante="true" idPalet="22306" idProducto="TRUPOSEPT FP" largo="990" posicion="18"/>
+                <palet alto="1132" ancho="927" cantidadProducto="706" delante="false" idPalet="67047" idProducto="TRUPOCAL AF" largo="600" posicion="18"/>
+                <palet alto="1449" ancho="809" cantidadProducto="552" delante="true" idPalet="95072" idProducto="TRUPOTEC T" largo="713" posicion="19"/>
+                <palet alto="785" ancho="857" cantidadProducto="843" delante="false" idPalet="56107" idProducto="TRUKALIN K" largo="952" posicion="19"/>
+                <palet alto="1208" ancho="800" cantidadProducto="635" delante="true" idPalet="12" idProducto="TRUPOFIN CERA CA" largo="844" posicion="21"/>
+                <palet alto="1283" ancho="972" cantidadProducto="793" delante="false" idPalet="28622" idProducto="PASTOSOL F" largo="805" posicion="21"/>
+                <palet alto="880" ancho="673" cantidadProducto="668" delante="true" idPalet="42719" idProducto="TRUPOSOL WBF" largo="909" posicion="23"/>
+                <palet alto="1227" ancho="939" cantidadProducto="966" delante="false" idPalet="98944" idProducto="TRUPOCRYL A–90" largo="990" posicion="23"/>
+                <palet alto="1107" ancho="966" cantidadProducto="901" delante="true" idPalet="89653" idProducto="TRUPOZYM CL" largo="604" posicion="24"/>
+                <palet alto="760" ancho="942" cantidadProducto="938" delante="false" idPalet="90346" idProducto="TRUPON AP" largo="917" posicion="24"/>
+            </balda>
+            <balda altura="3">
+                <palet alto="1198" ancho="788" cantidadProducto="624" delante="false" idPalet="19666" idProducto="PASTOSOL F" largo="571" posicion="1"/>
+                <palet alto="1360" ancho="893" cantidadProducto="860" delante="false" idPalet="5463" idProducto="TRUPOZYM CH" largo="811" posicion="2"/>
+                <palet alto="1339" ancho="596" cantidadProducto="575" delante="true" idPalet="10904" idProducto="TRUPOSYL TBD" largo="785" posicion="3"/>
+                <palet alto="1016" ancho="853" cantidadProducto="932" delante="false" idPalet="19309" idProducto="TRUPOSIST S-BO" largo="857" posicion="3"/>
+                <palet alto="1036" ancho="741" cantidadProducto="802" delante="false" idPalet="33035" idProducto="TRUPOFIN CERA W" largo="925" posicion="4"/>
+                <palet alto="1295" ancho="829" cantidadProducto="868" delante="true" idPalet="52475" idProducto="PASTOSOL KC" largo="607" posicion="5"/>
+                <palet alto="880" ancho="697" cantidadProducto="808" delante="false" idPalet="70365" idProducto="SOLVOTAN TACTO" largo="816" posicion="5"/>
+                <palet alto="1429" ancho="658" cantidadProducto="418" delante="true" idPalet="66281" idProducto="TRUPOZYM AB" largo="785" posicion="6"/>
+                <palet alto="644" ancho="534" cantidadProducto="498" delante="true" idPalet="96693" idProducto="TRUPOFIN CERA KT 09" largo="921" posicion="7"/>
+                <palet alto="555" ancho="864" cantidadProducto="586" delante="false" idPalet="41752" idProducto="TRUPOTAN OM" largo="751" posicion="8"/>
+                <palet alto="1224" ancho="794" cantidadProducto="407" delante="true" idPalet="92341" idProducto="TRUPOSYL TBK-E" largo="864" posicion="9"/>
+                <palet alto="1418" ancho="523" cantidadProducto="884" delante="true" idPalet="25991" idProducto="TRUPOZYM CN" largo="701" posicion="10"/>
+                <palet alto="1050" ancho="924" cantidadProducto="580" delante="false" idPalet="15463" idProducto="TRUPON CM" largo="672" posicion="10"/>
+                <palet alto="1030" ancho="580" cantidadProducto="830" delante="true" idPalet="84029" idProducto="TRUPOSYL ABS" largo="988" posicion="11"/>
+                <palet alto="1399" ancho="510" cantidadProducto="939" delante="false" idPalet="9180" idProducto="TRUPOSYL HBD" largo="831" posicion="11"/>
+                <palet alto="1345" ancho="852" cantidadProducto="1000" delante="true" idPalet="90212" idProducto="TRUPOFIN CERA CA" largo="509" posicion="13"/>
+                <palet alto="552" ancho="762" cantidadProducto="305" delante="false" idPalet="11" idProducto="TRUPOFIN CERA KT 09" largo="704" posicion="14"/>
+                <palet alto="641" ancho="779" cantidadProducto="942" delante="true" idPalet="28189" idProducto="TRUPOSLIP P" largo="709" posicion="15"/>
+                <palet alto="977" ancho="602" cantidadProducto="790" delante="false" idPalet="65407" idProducto="TRUPOZYM AX" largo="847" posicion="15"/>
+                <palet alto="705" ancho="873" cantidadProducto="433" delante="true" idPalet="36098" idProducto="TRUPOTAN OM" largo="511" posicion="16"/>
+                <palet alto="551" ancho="583" cantidadProducto="784" delante="true" idPalet="35856" idProducto="SOLVOTAN TACTO" largo="536" posicion="17"/>
+                <palet alto="976" ancho="565" cantidadProducto="638" delante="false" idPalet="15277" idProducto="TRUPOSYL TBK-E" largo="745" posicion="18"/>
+                <palet alto="1191" ancho="724" cantidadProducto="597" delante="true" idPalet="85536" idProducto="TRUPOFIN CERA DP" largo="692" posicion="19"/>
+                <palet alto="1268" ancho="837" cantidadProducto="813" delante="true" idPalet="42687" idProducto="TRUPOSOL WBF" largo="885" posicion="22"/>
+                <palet alto="1409" ancho="711" cantidadProducto="656" delante="false" idPalet="13327" idProducto="TRUPOZYM CB" largo="671" posicion="22"/>
+                <palet alto="1427" ancho="722" cantidadProducto="886" delante="true" idPalet="37014" idProducto="PASTOSOL F" largo="517" posicion="23"/>
+                <palet alto="1411" ancho="929" cantidadProducto="588" delante="false" idPalet="86718" idProducto="TRUPOFIN CERA CA" largo="985" posicion="23"/>
+                <palet alto="683" ancho="600" cantidadProducto="949" delante="true" idPalet="46" idProducto="TRUPOZYM AB" largo="902" posicion="24"/>
+                <palet alto="1003" ancho="968" cantidadProducto="758" delante="false" idPalet="18588" idProducto="TRUPON AP" largo="552" posicion="24"/>
+            </balda>
+            <balda altura="4">
+                <palet alto="544" ancho="554" cantidadProducto="893" delante="true" idPalet="66772" idProducto="TRUPOFIN CERA HF" largo="759" posicion="1"/>
+                <palet alto="1342" ancho="898" cantidadProducto="699" delante="false" idPalet="284" idProducto="TRUPOZYM AB" largo="693" posicion="1"/>
+                <palet alto="754" ancho="839" cantidadProducto="560" delante="true" idPalet="55504" idProducto="TRUPOSYL TBK" largo="901" posicion="2"/>
+                <palet alto="874" ancho="789" cantidadProducto="321" delante="true" idPalet="84028" idProducto="PASTOSOL BCN" largo="842" posicion="3"/>
+                <palet alto="919" ancho="914" cantidadProducto="613" delante="false" idPalet="4500" idProducto="TRUPOSLIP P" largo="949" posicion="3"/>
+                <palet alto="983" ancho="963" cantidadProducto="947" delante="true" idPalet="90904" idProducto="TRUPOFIN CERA M" largo="824" posicion="4"/>
+                <palet alto="511" ancho="561" cantidadProducto="738" delante="false" idPalet="83844" idProducto="TRUPON DBS" largo="778" posicion="4"/>
+                <palet alto="1406" ancho="588" cantidadProducto="663" delante="true" idPalet="94785" idProducto="TRUPOCRYL K-A-30" largo="727" posicion="5"/>
+                <palet alto="791" ancho="554" cantidadProducto="318" delante="false" idPalet="17920" idProducto="TRUPOFIN CERA D-80" largo="716" posicion="5"/>
+                <palet alto="835" ancho="639" cantidadProducto="745" delante="false" idPalet="7407" idProducto="TRUPOCRYL A-35" largo="829" posicion="6"/>
+                <palet alto="1252" ancho="901" cantidadProducto="827" delante="true" idPalet="65531" idProducto="TRUPOSOL WBF" largo="976" posicion="7"/>
+                <palet alto="788" ancho="962" cantidadProducto="654" delante="true" idPalet="65144" idProducto="TRUPOFIN CERA M" largo="687" posicion="9"/>
+                <palet alto="509" ancho="972" cantidadProducto="710" delante="true" idPalet="26845" idProducto="TRUPOFIN CERA A" largo="964" posicion="10"/>
+                <palet alto="735" ancho="902" cantidadProducto="328" delante="true" idPalet="92799" idProducto="TRUPOCRYL K-A-30" largo="901" posicion="12"/>
+                <palet alto="584" ancho="918" cantidadProducto="476" delante="false" idPalet="70683" idProducto="TRUPOCAL DE" largo="598" posicion="12"/>
+                <palet alto="1175" ancho="536" cantidadProducto="495" delante="true" idPalet="56467" idProducto="TRUPON COL" largo="878" posicion="13"/>
+                <palet alto="1418" ancho="583" cantidadProducto="939" delante="false" idPalet="53241" idProducto="TRUPOZYM CN" largo="889" posicion="14"/>
+                <palet alto="1021" ancho="890" cantidadProducto="545" delante="true" idPalet="90352" idProducto="TRUPON BMF" largo="683" posicion="17"/>
+                <palet alto="1132" ancho="785" cantidadProducto="933" delante="false" idPalet="47716" idProducto="TRUPOCRYL A-28" largo="611" posicion="17"/>
+                <palet alto="898" ancho="912" cantidadProducto="663" delante="true" idPalet="56033" idProducto="TRUPOFIN CERA HP" largo="824" posicion="18"/>
+                <palet alto="763" ancho="630" cantidadProducto="635" delante="true" idPalet="39291" idProducto="TRUPOTAN MON" largo="623" posicion="19"/>
+                <palet alto="850" ancho="958" cantidadProducto="486" delante="false" idPalet="62640" idProducto="TRUPOFIN CERA W" largo="927" posicion="20"/>
+                <palet alto="1275" ancho="739" cantidadProducto="845" delante="false" idPalet="85080" idProducto="TRUPOFIN CERA HP" largo="835" posicion="21"/>
+                <palet alto="651" ancho="969" cantidadProducto="700" delante="true" idPalet="78448" idProducto="TRUPOSYL ABS" largo="830" posicion="22"/>
+                <palet alto="995" ancho="514" cantidadProducto="871" delante="false" idPalet="86271" idProducto="TRUPOFIN CERA SP" largo="566" posicion="22"/>
+                <palet alto="1075" ancho="591" cantidadProducto="348" delante="true" idPalet="20422" idProducto="TRUPOFIN CERA BT" largo="691" posicion="23"/>
+                <palet alto="1011" ancho="792" cantidadProducto="588" delante="true" idPalet="51552" idProducto="TRUPOFIN CERA PV" largo="709" posicion="24"/>
+            </balda>
+            <balda altura="5">
+                <palet alto="1159" ancho="844" cantidadProducto="458" delante="false" idPalet="13412" idProducto="PASTOSOL DG" largo="665" posicion="1"/>
+                <palet alto="689" ancho="830" cantidadProducto="751" delante="true" idPalet="50540" idProducto="TRUPOCRYL A-28" largo="793" posicion="2"/>
+                <palet alto="1205" ancho="630" cantidadProducto="326" delante="false" idPalet="92641" idProducto="TRUPON BMF" largo="603" posicion="2"/>
+                <palet alto="1266" ancho="925" cantidadProducto="841" delante="true" idPalet="88155" idProducto="TRUPOSLIP P" largo="714" posicion="3"/>
+                <palet alto="798" ancho="946" cantidadProducto="688" delante="true" idPalet="61163" idProducto="TRUPOFIN CERA P" largo="947" posicion="4"/>
+                <palet alto="943" ancho="889" cantidadProducto="487" delante="true" idPalet="72578" idProducto="TRUPOSOL WBF" largo="520" posicion="5"/>
+                <palet alto="842" ancho="524" cantidadProducto="469" delante="false" idPalet="5719" idProducto="TRUPON DBS" largo="574" posicion="5"/>
+                <palet alto="1155" ancho="556" cantidadProducto="937" delante="true" idPalet="3905" idProducto="TRUPOZYM AB" largo="637" posicion="6"/>
+                <palet alto="537" ancho="556" cantidadProducto="857" delante="false" idPalet="99098" idProducto="TRUPOFIN CERA K-A" largo="951" posicion="6"/>
+                <palet alto="850" ancho="826" cantidadProducto="433" delante="true" idPalet="98717" idProducto="TRUPOCAL DE" largo="512" posicion="8"/>
+                <palet alto="1369" ancho="662" cantidadProducto="811" delante="false" idPalet="5948" idProducto="TRUPOSIST S-BO" largo="606" posicion="8"/>
+                <palet alto="503" ancho="625" cantidadProducto="837" delante="false" idPalet="44787" idProducto="TRUPOSLIP P" largo="647" posicion="10"/>
+                <palet alto="602" ancho="540" cantidadProducto="475" delante="true" idPalet="22189" idProducto="TRUPOSOL WBF" largo="778" posicion="12"/>
+                <palet alto="1123" ancho="893" cantidadProducto="543" delante="false" idPalet="66223" idProducto="TRUPOZYM AB" largo="508" posicion="12"/>
+                <palet alto="920" ancho="830" cantidadProducto="601" delante="true" idPalet="99713" idProducto="TRUPOCRYL K-U-27" largo="570" posicion="13"/>
+                <palet alto="1375" ancho="905" cantidadProducto="982" delante="false" idPalet="82776" idProducto="TRUPOZYM CL" largo="852" posicion="13"/>
+                <palet alto="566" ancho="635" cantidadProducto="703" delante="true" idPalet="65269" idProducto="TRUPOCRYL K-U-327" largo="640" posicion="14"/>
+                <palet alto="686" ancho="701" cantidadProducto="896" delante="true" idPalet="77317" idProducto="TRUPOCRYL A-32" largo="949" posicion="15"/>
+                <palet alto="944" ancho="894" cantidadProducto="859" delante="false" idPalet="37732" idProducto="TRUPOFIN CERA HP" largo="510" posicion="16"/>
+                <palet alto="897" ancho="788" cantidadProducto="513" delante="true" idPalet="7492" idProducto="TRUPON DBS" largo="647" posicion="17"/>
+                <palet alto="657" ancho="950" cantidadProducto="486" delante="true" idPalet="12693" idProducto="TRUPOCRYL K-U-10" largo="761" posicion="18"/>
+                <palet alto="1018" ancho="582" cantidadProducto="885" delante="false" idPalet="50374" idProducto="TRUPOFIN CERA K-A" largo="529" posicion="18"/>
+                <palet alto="1034" ancho="736" cantidadProducto="605" delante="false" idPalet="14592" idProducto="TRUPOFIN CERA SP" largo="946" posicion="19"/>
+                <palet alto="610" ancho="827" cantidadProducto="780" delante="false" idPalet="14744" idProducto="TRUPON DBS" largo="670" posicion="20"/>
+                <palet alto="1463" ancho="651" cantidadProducto="702" delante="false" idPalet="59195" idProducto="TRUPOCRYL A–90" largo="599" posicion="21"/>
+                <palet alto="885" ancho="610" cantidadProducto="394" delante="true" idPalet="87461" idProducto="TRUPOCRYL K-U-310" largo="656" posicion="22"/>
+                <palet alto="570" ancho="541" cantidadProducto="928" delante="false" idPalet="32015" idProducto="PASTOSOL F" largo="717" posicion="22"/>
+                <palet alto="678" ancho="887" cantidadProducto="501" delante="true" idPalet="84141" idProducto="TRUPOFIN CERA D-80" largo="861" posicion="24"/>
+                <palet alto="530" ancho="631" cantidadProducto="492" delante="false" idPalet="12397" idProducto="TRUPOFIN CERA M" largo="539" posicion="24"/>
+            </balda>
+            <balda altura="6">
+                <palet alto="1035" ancho="702" cantidadProducto="887" delante="false" idPalet="63680" idProducto="TRUPOCRYL A-10" largo="831" posicion="3"/>
+                <palet alto="1293" ancho="648" cantidadProducto="596" delante="true" idPalet="9810" idProducto="TRUPOCRYL K-U-27" largo="756" posicion="5"/>
+                <palet alto="1390" ancho="832" cantidadProducto="759" delante="false" idPalet="18077" idProducto="TRUPOSOL WBF" largo="846" posicion="6"/>
+                <palet alto="896" ancho="572" cantidadProducto="582" delante="true" idPalet="56349" idProducto="TRUPON DB-80" largo="719" posicion="7"/>
+                <palet alto="537" ancho="931" cantidadProducto="826" delante="true" idPalet="46087" idProducto="TRUPON BMF" largo="703" posicion="9"/>
+                <palet alto="887" ancho="806" cantidadProducto="901" delante="true" idPalet="82408" idProducto="TRUPON BMF" largo="687" posicion="10"/>
+                <palet alto="697" ancho="540" cantidadProducto="861" delante="true" idPalet="33652" idProducto="TRUPOWET SA" largo="926" posicion="11"/>
+                <palet alto="1454" ancho="990" cantidadProducto="950" delante="false" idPalet="11883" idProducto="TRUPOZYM AB" largo="930" posicion="11"/>
+                <palet alto="739" ancho="818" cantidadProducto="557" delante="true" idPalet="71888" idProducto="TRUPOFIN CERA W" largo="817" posicion="12"/>
+                <palet alto="1277" ancho="901" cantidadProducto="434" delante="true" idPalet="78649" idProducto="TRUPOTEC S" largo="631" posicion="13"/>
+                <palet alto="767" ancho="863" cantidadProducto="631" delante="false" idPalet="80626" idProducto="TRUPOFIN CERA PW" largo="552" posicion="13"/>
+                <palet alto="1365" ancho="714" cantidadProducto="581" delante="true" idPalet="36370" idProducto="TRUPOCRYL A-30" largo="715" posicion="14"/>
+                <palet alto="1159" ancho="827" cantidadProducto="400" delante="true" idPalet="53898" idProducto="TRUPON COL" largo="916" posicion="15"/>
+                <palet alto="948" ancho="908" cantidadProducto="992" delante="true" idPalet="37792" idProducto="TRUPOTEC T" largo="792" posicion="17"/>
+                <palet alto="1005" ancho="858" cantidadProducto="307" delante="false" idPalet="71546" idProducto="TRUPOSYL TBK" largo="850" posicion="17"/>
+                <palet alto="1041" ancho="937" cantidadProducto="701" delante="true" idPalet="83307" idProducto="TRUPOFIN CERA D-80" largo="661" posicion="19"/>
+                <palet alto="570" ancho="902" cantidadProducto="680" delante="false" idPalet="63129" idProducto="TRUPOFIN CERA DP" largo="779" posicion="19"/>
+                <palet alto="1487" ancho="974" cantidadProducto="628" delante="true" idPalet="1708" idProducto="TRUPOFIN CERA SP" largo="864" posicion="20"/>
+                <palet alto="1064" ancho="936" cantidadProducto="911" delante="true" idPalet="38436" idProducto="TRUPOTEC S" largo="644" posicion="21"/>
+                <palet alto="1237" ancho="925" cantidadProducto="670" delante="false" idPalet="91264" idProducto="TRUPOZYM AB" largo="655" posicion="21"/>
+                <palet alto="742" ancho="592" cantidadProducto="891" delante="true" idPalet="48894" idProducto="TRUPOFIN CERA P" largo="841" posicion="23"/>
+                <palet alto="1043" ancho="979" cantidadProducto="792" delante="false" idPalet="48287" idProducto="TRUPOCRYL A–90" largo="812" posicion="24"/>
+            </balda>
+            <balda altura="7">
+                <palet alto="579" ancho="612" cantidadProducto="837" delante="true" idPalet="71889" idProducto="TRUPOCRYL A–90" largo="533" posicion="1"/>
+                <palet alto="1082" ancho="835" cantidadProducto="665" delante="true" idPalet="13644" idProducto="TRUPOSYL HBD" largo="556" posicion="2"/>
+                <palet alto="1031" ancho="865" cantidadProducto="343" delante="false" idPalet="39736" idProducto="TRUPOCRYL A-20" largo="910" posicion="2"/>
+                <palet alto="1499" ancho="843" cantidadProducto="626" delante="false" idPalet="33496" idProducto="PASTOSOL MD" largo="536" posicion="3"/>
+                <palet alto="933" ancho="693" cantidadProducto="486" delante="true" idPalet="31020" idProducto="TRUPOZYM CB" largo="663" posicion="4"/>
+                <palet alto="1229" ancho="763" cantidadProducto="702" delante="false" idPalet="86371" idProducto="TRUPOFIN CERA HS" largo="695" posicion="4"/>
+                <palet alto="1321" ancho="529" cantidadProducto="484" delante="false" idPalet="25618" idProducto="TRUPOCRYL K-U-310" largo="768" posicion="5"/>
+                <palet alto="658" ancho="780" cantidadProducto="987" delante="false" idPalet="62772" idProducto="TRUPOZYM AB" largo="745" posicion="6"/>
+                <palet alto="563" ancho="986" cantidadProducto="474" delante="false" idPalet="16728" idProducto="TRUPOCRYL A-30" largo="670" posicion="8"/>
+                <palet alto="915" ancho="739" cantidadProducto="852" delante="true" idPalet="83610" idProducto="TRUPOFIN CERA FP" largo="944" posicion="9"/>
+                <palet alto="1453" ancho="811" cantidadProducto="790" delante="false" idPalet="25793" idProducto="TRUPOFIN CERA DP" largo="865" posicion="9"/>
+                <palet alto="1421" ancho="591" cantidadProducto="890" delante="false" idPalet="36143" idProducto="TRUPOTAN OM" largo="511" posicion="10"/>
+                <palet alto="1022" ancho="960" cantidadProducto="690" delante="false" idPalet="96963" idProducto="TRUPOCRYL A-18" largo="900" posicion="12"/>
+                <palet alto="1090" ancho="788" cantidadProducto="317" delante="true" idPalet="98340" idProducto="TRUPOCRYL A-30" largo="962" posicion="13"/>
+                <palet alto="1208" ancho="615" cantidadProducto="739" delante="false" idPalet="21428" idProducto="TRUPOCRYL A-10" largo="789" posicion="13"/>
+                <palet alto="957" ancho="640" cantidadProducto="620" delante="true" idPalet="16140" idProducto="PASTOSOL MD" largo="752" posicion="14"/>
+                <palet alto="882" ancho="920" cantidadProducto="853" delante="false" idPalet="26361" idProducto="TRUPOSEPT FP" largo="972" posicion="14"/>
+                <palet alto="617" ancho="695" cantidadProducto="809" delante="false" idPalet="62295" idProducto="TRUPOTEC T" largo="824" posicion="15"/>
+                <palet alto="1448" ancho="988" cantidadProducto="519" delante="false" idPalet="5161" idProducto="TRUPOFIN CERA PW" largo="858" posicion="16"/>
+                <palet alto="1082" ancho="569" cantidadProducto="918" delante="true" idPalet="38842" idProducto="TRUPOFIN CERA HF" largo="763" posicion="17"/>
+                <palet alto="640" ancho="835" cantidadProducto="991" delante="false" idPalet="75738" idProducto="PASTOSOL MD" largo="721" posicion="17"/>
+                <palet alto="1348" ancho="910" cantidadProducto="442" delante="true" idPalet="41271" idProducto="TRUPOL RK" largo="776" posicion="19"/>
+                <palet alto="974" ancho="584" cantidadProducto="952" delante="false" idPalet="86204" idProducto="SOLVOTAN TACTO" largo="962" posicion="19"/>
+                <palet alto="1065" ancho="673" cantidadProducto="391" delante="true" idPalet="62068" idProducto="TRUPOFIN CERA CA" largo="807" posicion="20"/>
+                <palet alto="1327" ancho="589" cantidadProducto="776" delante="true" idPalet="43262" idProducto="TRUPOSLIP P" largo="786" posicion="21"/>
+                <palet alto="1383" ancho="899" cantidadProducto="351" delante="false" idPalet="47230" idProducto="TRUPOFIN CERA K-A" largo="731" posicion="23"/>
+                <palet alto="1193" ancho="647" cantidadProducto="986" delante="false" idPalet="6390" idProducto="TRUPOFIN CERA HF" largo="912" posicion="24"/>
+            </balda>
+            <balda altura="8">
+                <palet alto="1135" ancho="879" cantidadProducto="991" delante="false" idPalet="96189" idProducto="PASTOSOL MD" largo="507" posicion="1"/>
+                <palet alto="1362" ancho="876" cantidadProducto="938" delante="true" idPalet="28690" idProducto="TRUPOSYL HBD" largo="590" posicion="2"/>
+                <palet alto="750" ancho="731" cantidadProducto="646" delante="false" idPalet="77798" idProducto="TRUPOCRYL A-35" largo="775" posicion="2"/>
+                <palet alto="1184" ancho="651" cantidadProducto="516" delante="true" idPalet="6866" idProducto="TRUPONAT NF" largo="844" posicion="3"/>
+                <palet alto="839" ancho="958" cantidadProducto="643" delante="true" idPalet="80025" idProducto="PASTOSOL KC" largo="643" posicion="4"/>
+                <palet alto="911" ancho="715" cantidadProducto="871" delante="false" idPalet="46617" idProducto="TRUPON BMF" largo="668" posicion="4"/>
+                <palet alto="676" ancho="687" cantidadProducto="799" delante="false" idPalet="95032" idProducto="TRUPOFIN CERA P" largo="803" posicion="6"/>
+                <palet alto="739" ancho="510" cantidadProducto="901" delante="false" idPalet="149" idProducto="TRUPOTAN MON" largo="882" posicion="7"/>
+                <palet alto="608" ancho="977" cantidadProducto="814" delante="false" idPalet="12861" idProducto="TRUPON DB-80" largo="858" posicion="8"/>
+                <palet alto="526" ancho="567" cantidadProducto="678" delante="false" idPalet="7644" idProducto="TRUPON BMF" largo="696" posicion="9"/>
+                <palet alto="681" ancho="583" cantidadProducto="453" delante="true" idPalet="75626" idProducto="TRUPOFIN CERA A" largo="761" posicion="10"/>
+                <palet alto="1281" ancho="561" cantidadProducto="818" delante="false" idPalet="33350" idProducto="TRUPOFIN CERA D-80" largo="559" posicion="10"/>
+                <palet alto="696" ancho="716" cantidadProducto="493" delante="true" idPalet="23224" idProducto="TRUPOSYL TBA" largo="872" posicion="11"/>
+                <palet alto="1282" ancho="724" cantidadProducto="390" delante="false" idPalet="51594" idProducto="TRUPOZYM AB" largo="779" posicion="11"/>
+                <palet alto="603" ancho="948" cantidadProducto="707" delante="true" idPalet="57303" idProducto="TRUPOFIN CERA PV" largo="826" posicion="12"/>
+                <palet alto="605" ancho="556" cantidadProducto="544" delante="false" idPalet="66947" idProducto="TRUPOCRYL A-35" largo="971" posicion="12"/>
+                <palet alto="1468" ancho="504" cantidadProducto="832" delante="true" idPalet="65569" idProducto="TRUPON CST" largo="936" posicion="13"/>
+                <palet alto="598" ancho="804" cantidadProducto="609" delante="false" idPalet="78612" idProducto="TRUPOCRYL K-U-327" largo="745" posicion="13"/>
+                <palet alto="1113" ancho="754" cantidadProducto="991" delante="true" idPalet="67520" idProducto="TRUPOCRYL A-28" largo="952" posicion="14"/>
+                <palet alto="1496" ancho="909" cantidadProducto="940" delante="false" idPalet="11542" idProducto="TRUKALIN K" largo="700" posicion="14"/>
+                <palet alto="1334" ancho="873" cantidadProducto="996" delante="true" idPalet="23928" idProducto="TRUPOFIN CERA A" largo="528" posicion="15"/>
+                <palet alto="582" ancho="594" cantidadProducto="804" delante="false" idPalet="91093" idProducto="TRUPOTAN MOW" largo="748" posicion="16"/>
+                <palet alto="1256" ancho="577" cantidadProducto="680" delante="true" idPalet="82355" idProducto="TRUPON AP" largo="841" posicion="18"/>
+                <palet alto="1264" ancho="956" cantidadProducto="617" delante="false" idPalet="46798" idProducto="TRUPOCRYL A–90" largo="726" posicion="18"/>
+                <palet alto="523" ancho="716" cantidadProducto="461" delante="true" idPalet="2867" idProducto="TRUPOCRYL A-20" largo="841" posicion="20"/>
+                <palet alto="1002" ancho="581" cantidadProducto="996" delante="true" idPalet="99736" idProducto="TRUPON AP" largo="965" posicion="21"/>
+                <palet alto="1046" ancho="657" cantidadProducto="310" delante="false" idPalet="2273" idProducto="TRUPONAT LA" largo="980" posicion="21"/>
+                <palet alto="1171" ancho="544" cantidadProducto="847" delante="true" idPalet="67350" idProducto="TRUPOCRYL K-A-30" largo="586" posicion="23"/>
+                <palet alto="1074" ancho="982" cantidadProducto="678" delante="true" idPalet="82751" idProducto="TRUPOFIN CERA M" largo="845" posicion="24"/>
+                <palet alto="1210" ancho="616" cantidadProducto="675" delante="false" idPalet="48256" idProducto="TRUPOCRYL A-30" largo="597" posicion="24"/>
+            </balda>
+        </estanteria>
+        <estanteria numero="2">
+            <balda altura="1">
+                <palet alto="510" ancho="659" cantidadProducto="570" delante="true" idPalet="34216" idProducto="TRUPOCRYL A-28" largo="866" posicion="1"/>
+                <palet alto="1314" ancho="903" cantidadProducto="639" delante="false" idPalet="92236" idProducto="TRUPOFIN CERA HS" largo="983" posicion="1"/>
+                <palet alto="970" ancho="616" cantidadProducto="312" delante="true" idPalet="18740" idProducto="PASTOSOL BCN" largo="950" posicion="2"/>
+                <palet alto="994" ancho="549" cantidadProducto="732" delante="false" idPalet="34194" idProducto="TRUPON BMF" largo="514" posicion="2"/>
+                <palet alto="1200" ancho="756" cantidadProducto="666" delante="true" idPalet="49092" idProducto="TRUPOCRYL A-28" largo="800" posicion="3"/>
+                <palet alto="1482" ancho="719" cantidadProducto="964" delante="false" idPalet="13024" idProducto="SOLVOTAN TACTO" largo="551" posicion="3"/>
+                <palet alto="1110" ancho="731" cantidadProducto="716" delante="true" idPalet="20997" idProducto="TRUPOSYL TBA" largo="645" posicion="4"/>
+                <palet alto="1162" ancho="564" cantidadProducto="334" delante="true" idPalet="40249" idProducto="TRUPOSLIP P" largo="936" posicion="5"/>
+                <palet alto="1121" ancho="888" cantidadProducto="433" delante="true" idPalet="55385" idProducto="TRUPOWET SA" largo="759" posicion="6"/>
+                <palet alto="792" ancho="684" cantidadProducto="396" delante="false" idPalet="8437" idProducto="TRUPOZYM CH" largo="597" posicion="6"/>
+                <palet alto="1494" ancho="954" cantidadProducto="842" delante="false" idPalet="44561" idProducto="TRUPOCRYL K-A-30" largo="950" posicion="7"/>
+                <palet alto="1210" ancho="925" cantidadProducto="560" delante="true" idPalet="92345" idProducto="TRUPOSLIP P" largo="867" posicion="8"/>
+                <palet alto="784" ancho="695" cantidadProducto="677" delante="false" idPalet="46116" idProducto="TRUPOL RK" largo="691" posicion="8"/>
+                <palet alto="1048" ancho="651" cantidadProducto="305" delante="true" idPalet="63174" idProducto="TRUPOCRYL AB" largo="528" posicion="9"/>
+                <palet alto="1170" ancho="797" cantidadProducto="823" delante="false" idPalet="84725" idProducto="PASTOSOL KC" largo="528" posicion="9"/>
+                <palet alto="687" ancho="837" cantidadProducto="884" delante="true" idPalet="94912" idProducto="TRUPOCAL AF" largo="683" posicion="10"/>
+                <palet alto="1222" ancho="964" cantidadProducto="347" delante="false" idPalet="72676" idProducto="TRUPOCRYL K-U-27" largo="848" posicion="10"/>
+                <palet alto="799" ancho="926" cantidadProducto="336" delante="true" idPalet="27548" idProducto="TRUPOCRYL A-35" largo="856" posicion="11"/>
+                <palet alto="1249" ancho="623" cantidadProducto="527" delante="false" idPalet="44039" idProducto="PASTOSOL BCN" largo="604" posicion="11"/>
+                <palet alto="564" ancho="592" cantidadProducto="405" delante="true" idPalet="45366" idProducto="TRUPOCRYL K-U-327" largo="973" posicion="12"/>
+                <palet alto="943" ancho="514" cantidadProducto="835" delante="true" idPalet="99224" idProducto="TRUPON BMF" largo="544" posicion="14"/>
+                <palet alto="1042" ancho="749" cantidadProducto="427" delante="false" idPalet="56190" idProducto="TRUPOFIN CERA K-A" largo="763" posicion="14"/>
+                <palet alto="659" ancho="935" cantidadProducto="786" delante="true" idPalet="37109" idProducto="TRUPOCRYL K-U-10" largo="831" posicion="15"/>
+                <palet alto="1153" ancho="668" cantidadProducto="902" delante="false" idPalet="11573" idProducto="TRUPONAT LA" largo="952" posicion="15"/>
+                <palet alto="811" ancho="830" cantidadProducto="371" delante="true" idPalet="99354" idProducto="TRUPOFIN CERA PV" largo="999" posicion="16"/>
+                <palet alto="897" ancho="614" cantidadProducto="422" delante="false" idPalet="58165" idProducto="TRUPOFIN CERA W" largo="582" posicion="16"/>
+                <palet alto="1390" ancho="900" cantidadProducto="732" delante="true" idPalet="72472" idProducto="TRUPOCRYL K-U-27" largo="977" posicion="18"/>
+                <palet alto="769" ancho="634" cantidadProducto="438" delante="false" idPalet="21088" idProducto="TRUPOTEC T" largo="597" posicion="18"/>
+                <palet alto="1090" ancho="528" cantidadProducto="818" delante="true" idPalet="41924" idProducto="TRUPONAT NF" largo="904" posicion="19"/>
+                <palet alto="999" ancho="777" cantidadProducto="782" delante="true" idPalet="16943" idProducto="PASTOSOL F" largo="697" posicion="20"/>
+                <palet alto="559" ancho="857" cantidadProducto="741" delante="true" idPalet="45166" idProducto="TRUPON DB-80" largo="938" posicion="21"/>
+                <palet alto="790" ancho="958" cantidadProducto="979" delante="false" idPalet="77825" idProducto="TRUPOSIST D" largo="774" posicion="21"/>
+                <palet alto="712" ancho="930" cantidadProducto="416" delante="true" idPalet="94388" idProducto="TRUPOCRYL A-10" largo="988" posicion="22"/>
+                <palet alto="1370" ancho="837" cantidadProducto="972" delante="false" idPalet="45134" idProducto="TRUPOCRYL A-35" largo="539" posicion="22"/>
+                <palet alto="1293" ancho="898" cantidadProducto="761" delante="true" idPalet="80895" idProducto="TRUPOCRYL A-18" largo="776" posicion="23"/>
+                <palet alto="1000" ancho="854" cantidadProducto="928" delante="false" idPalet="84078" idProducto="TRUPOSIST D" largo="820" posicion="23"/>
+            </balda>
+            <balda altura="2">
+                <palet alto="830" ancho="558" cantidadProducto="479" delante="true" idPalet="15119" idProducto="TRUPOSYL TBD" largo="595" posicion="1"/>
+                <palet alto="660" ancho="534" cantidadProducto="382" delante="false" idPalet="65765" idProducto="TRUPOCRYL A–90" largo="528" posicion="1"/>
+                <palet alto="547" ancho="824" cantidadProducto="601" delante="true" idPalet="86468" idProducto="TRUPOFIN CERA HP" largo="806" posicion="2"/>
+                <palet alto="1118" ancho="808" cantidadProducto="378" delante="true" idPalet="76352" idProducto="TRUPOSYL TBA" largo="590" posicion="3"/>
+                <palet alto="1170" ancho="771" cantidadProducto="528" delante="false" idPalet="89971" idProducto="ANTIFOAM NSP" largo="744" posicion="3"/>
+                <palet alto="1425" ancho="917" cantidadProducto="472" delante="true" idPalet="85144" idProducto="ANTIFOAM NSP" largo="883" posicion="4"/>
+                <palet alto="1287" ancho="774" cantidadProducto="693" delante="false" idPalet="40678" idProducto="TRUKALIN K" largo="634" posicion="4"/>
+                <palet alto="836" ancho="686" cantidadProducto="784" delante="true" idPalet="81303" idProducto="TRUPOCRYL A–90" largo="681" posicion="6"/>
+                <palet alto="522" ancho="632" cantidadProducto="770" delante="false" idPalet="33628" idProducto="TRUPOCRYL A-10" largo="580" posicion="6"/>
+                <palet alto="703" ancho="765" cantidadProducto="693" delante="true" idPalet="62603" idProducto="TRUPOWET PH" largo="605" posicion="7"/>
+                <palet alto="518" ancho="982" cantidadProducto="725" delante="false" idPalet="23299" idProducto="TRUPOSLIP P" largo="680" posicion="7"/>
+                <palet alto="1054" ancho="910" cantidadProducto="906" delante="true" idPalet="1539" idProducto="TRUPOZYM CB" largo="703" posicion="8"/>
+                <palet alto="1420" ancho="911" cantidadProducto="779" delante="false" idPalet="67392" idProducto="TRUPOSYL TBK" largo="976" posicion="8"/>
+                <palet alto="994" ancho="980" cantidadProducto="391" delante="false" idPalet="81843" idProducto="TRUPOFIN CERA 3A" largo="515" posicion="9"/>
+                <palet alto="1016" ancho="842" cantidadProducto="696" delante="true" idPalet="71718" idProducto="TRUPON PEM" largo="788" posicion="10"/>
+                <palet alto="568" ancho="645" cantidadProducto="498" delante="false" idPalet="83136" idProducto="TRUPON COL" largo="882" posicion="10"/>
+                <palet alto="1235" ancho="872" cantidadProducto="637" delante="true" idPalet="73865" idProducto="TRUPOZYM CL" largo="626" posicion="11"/>
+                <palet alto="1445" ancho="711" cantidadProducto="964" delante="false" idPalet="97686" idProducto="TRUPON AP" largo="779" posicion="12"/>
+                <palet alto="580" ancho="883" cantidadProducto="959" delante="true" idPalet="40077" idProducto="TRUPOSYL TBD" largo="539" posicion="13"/>
+                <palet alto="680" ancho="502" cantidadProducto="574" delante="true" idPalet="73910" idProducto="TRUPOSYL TBD" largo="575" posicion="14"/>
+                <palet alto="1194" ancho="938" cantidadProducto="674" delante="false" idPalet="19758" idProducto="PASTOSOL MD" largo="905" posicion="14"/>
+                <palet alto="915" ancho="519" cantidadProducto="769" delante="true" idPalet="51659" idProducto="TRUPOCRYL K-A-30" largo="730" posicion="15"/>
+                <palet alto="619" ancho="701" cantidadProducto="578" delante="true" idPalet="25713" idProducto="TRUPOFIN CERA A" largo="827" posicion="16"/>
+                <palet alto="940" ancho="641" cantidadProducto="556" delante="false" idPalet="30120" idProducto="TRUPOCRYL K-A-30" largo="804" posicion="17"/>
+                <palet alto="521" ancho="670" cantidadProducto="833" delante="true" idPalet="29684" idProducto="TRUPOZYM CL" largo="819" posicion="18"/>
+                <palet alto="921" ancho="547" cantidadProducto="466" delante="false" idPalet="36259" idProducto="TRUPOCRYL A-35" largo="590" posicion="18"/>
+                <palet alto="834" ancho="575" cantidadProducto="909" delante="false" idPalet="33749" idProducto="TRUPON PEM" largo="585" posicion="20"/>
+                <palet alto="1038" ancho="619" cantidadProducto="701" delante="true" idPalet="9307" idProducto="TRUPON CM" largo="525" posicion="21"/>
+                <palet alto="741" ancho="948" cantidadProducto="738" delante="true" idPalet="75981" idProducto="TRUPOCRYL A-35" largo="877" posicion="23"/>
+                <palet alto="1184" ancho="695" cantidadProducto="628" delante="false" idPalet="29662" idProducto="TRUPON PEM" largo="579" posicion="23"/>
+                <palet alto="638" ancho="776" cantidadProducto="906" delante="true" idPalet="43875" idProducto="SOLVOTAN XS" largo="738" posicion="24"/>
+            </balda>
+            <balda altura="3">
+                <palet alto="834" ancho="856" cantidadProducto="424" delante="true" idPalet="93144" idProducto="PASTOSOL F" largo="551" posicion="1"/>
+                <palet alto="616" ancho="726" cantidadProducto="722" delante="false" idPalet="48962" idProducto="TRUPON BMF" largo="813" posicion="1"/>
+                <palet alto="731" ancho="697" cantidadProducto="484" delante="true" idPalet="9626" idProducto="TRUPOCRYL A-20" largo="593" posicion="2"/>
+                <palet alto="1468" ancho="647" cantidadProducto="533" delante="false" idPalet="29602" idProducto="TRUPOWET PH" largo="918" posicion="2"/>
+                <palet alto="1232" ancho="797" cantidadProducto="744" delante="true" idPalet="25371" idProducto="TRUPOCRYL A–90" largo="614" posicion="3"/>
+                <palet alto="937" ancho="875" cantidadProducto="817" delante="false" idPalet="40230" idProducto="TRUPOFIN CERA SP" largo="783" posicion="3"/>
+                <palet alto="579" ancho="533" cantidadProducto="350" delante="true" idPalet="92096" idProducto="TRUPOZYM AB" largo="789" posicion="4"/>
+                <palet alto="1244" ancho="964" cantidadProducto="904" delante="false" idPalet="71729" idProducto="TRUPOCRYL K-U-327" largo="924" posicion="4"/>
+                <palet alto="582" ancho="747" cantidadProducto="939" delante="false" idPalet="26430" idProducto="TRUPON BMF" largo="719" posicion="7"/>
+                <palet alto="1486" ancho="602" cantidadProducto="758" delante="true" idPalet="68182" idProducto="TRUPOFIN CERA HP" largo="956" posicion="8"/>
+                <palet alto="862" ancho="558" cantidadProducto="722" delante="true" idPalet="51866" idProducto="TRUPONAT NF" largo="991" posicion="9"/>
+                <palet alto="1108" ancho="675" cantidadProducto="562" delante="true" idPalet="36617" idProducto="TRUPOFIN CERA P" largo="573" posicion="10"/>
+                <palet alto="1363" ancho="605" cantidadProducto="355" delante="true" idPalet="56748" idProducto="TRUPON DB-80" largo="711" posicion="11"/>
+                <palet alto="1087" ancho="825" cantidadProducto="853" delante="false" idPalet="40871" idProducto="SOLVOTAN XS" largo="742" posicion="11"/>
+                <palet alto="691" ancho="526" cantidadProducto="954" delante="true" idPalet="29232" idProducto="TRUPOCRYL A-18" largo="926" posicion="12"/>
+                <palet alto="809" ancho="753" cantidadProducto="466" delante="false" idPalet="92497" idProducto="TRUPON COL" largo="895" posicion="12"/>
+                <palet alto="1235" ancho="797" cantidadProducto="965" delante="true" idPalet="81604" idProducto="TRUPOCRYL K-U-10" largo="839" posicion="13"/>
+                <palet alto="1367" ancho="771" cantidadProducto="847" delante="false" idPalet="44114" idProducto="TRUPOSLIP P" largo="959" posicion="13"/>
+                <palet alto="860" ancho="685" cantidadProducto="593" delante="true" idPalet="636" idProducto="TRUPOCAL DE" largo="506" posicion="14"/>
+                <palet alto="738" ancho="663" cantidadProducto="811" delante="false" idPalet="35030" idProducto="TRUKALIN K" largo="951" posicion="14"/>
+                <palet alto="1112" ancho="711" cantidadProducto="509" delante="true" idPalet="2447" idProducto="PASTOSOL F" largo="812" posicion="15"/>
+                <palet alto="566" ancho="707" cantidadProducto="599" delante="false" idPalet="57428" idProducto="PASTOSOL DG" largo="891" posicion="15"/>
+                <palet alto="1069" ancho="844" cantidadProducto="779" delante="false" idPalet="60736" idProducto="TRUPOZYM CL" largo="944" posicion="16"/>
+                <palet alto="508" ancho="743" cantidadProducto="510" delante="false" idPalet="76271" idProducto="TRUPOCRYL A-20" largo="528" posicion="18"/>
+                <palet alto="701" ancho="931" cantidadProducto="684" delante="true" idPalet="28493" idProducto="TRUPONAT LA" largo="605" posicion="19"/>
+                <palet alto="1468" ancho="848" cantidadProducto="606" delante="false" idPalet="30407" idProducto="PASTOSOL BCN" largo="775" posicion="19"/>
+                <palet alto="1057" ancho="845" cantidadProducto="728" delante="true" idPalet="87558" idProducto="TRUPOFIN CERA A" largo="506" posicion="20"/>
+                <palet alto="635" ancho="664" cantidadProducto="874" delante="false" idPalet="5011" idProducto="TRUPOTAN MOW" largo="910" posicion="20"/>
+                <palet alto="1145" ancho="758" cantidadProducto="511" delante="true" idPalet="18914" idProducto="TRUPOWET SA" largo="919" posicion="21"/>
+                <palet alto="1126" ancho="789" cantidadProducto="991" delante="true" idPalet="80938" idProducto="TRUPOFIN CERA W" largo="528" posicion="22"/>
+                <palet alto="1253" ancho="704" cantidadProducto="360" delante="true" idPalet="91012" idProducto="TRUPOFIN CERA HS" largo="618" posicion="23"/>
+                <palet alto="573" ancho="969" cantidadProducto="398" delante="false" idPalet="31127" idProducto="TRUPOSYL ABS" largo="762" posicion="23"/>
+                <palet alto="1292" ancho="947" cantidadProducto="922" delante="true" idPalet="9292" idProducto="TRUPOCRYL A-10" largo="672" posicion="24"/>
+            </balda>
+            <balda altura="4">
+                <palet alto="979" ancho="531" cantidadProducto="733" delante="true" idPalet="4804" idProducto="TRUPON AP" largo="593" posicion="1"/>
+                <palet alto="699" ancho="730" cantidadProducto="550" delante="true" idPalet="29104" idProducto="TRUPOSLIP P" largo="813" posicion="2"/>
+                <palet alto="568" ancho="559" cantidadProducto="537" delante="true" idPalet="35268" idProducto="TRUPOCRYL A-32" largo="784" posicion="3"/>
+                <palet alto="761" ancho="831" cantidadProducto="982" delante="false" idPalet="62913" idProducto="TRUPOCRYL K-U-10" largo="931" posicion="3"/>
+                <palet alto="1354" ancho="617" cantidadProducto="354" delante="false" idPalet="67303" idProducto="TRUPOFIN CERA P" largo="688" posicion="5"/>
+                <palet alto="1420" ancho="818" cantidadProducto="468" delante="true" idPalet="47391" idProducto="TRUPON DBS" largo="977" posicion="6"/>
+                <palet alto="1296" ancho="775" cantidadProducto="933" delante="true" idPalet="94827" idProducto="TRUPOSYL TBA" largo="522" posicion="9"/>
+                <palet alto="740" ancho="692" cantidadProducto="925" delante="false" idPalet="99131" idProducto="PASTOSOL MD" largo="621" posicion="9"/>
+                <palet alto="1328" ancho="503" cantidadProducto="666" delante="true" idPalet="49797" idProducto="TRUPOFIN CERA FP" largo="506" posicion="10"/>
+                <palet alto="1467" ancho="948" cantidadProducto="406" delante="false" idPalet="75046" idProducto="TRUPOFIN CERA PV" largo="896" posicion="10"/>
+                <palet alto="1223" ancho="803" cantidadProducto="401" delante="false" idPalet="13073" idProducto="TRUPONAT NF" largo="618" posicion="11"/>
+                <palet alto="999" ancho="760" cantidadProducto="908" delante="true" idPalet="71044" idProducto="TRUPOTAN MOW" largo="518" posicion="12"/>
+                <palet alto="669" ancho="736" cantidadProducto="426" delante="false" idPalet="60416" idProducto="TRUPON COL" largo="782" posicion="13"/>
+                <palet alto="1142" ancho="520" cantidadProducto="543" delante="true" idPalet="49765" idProducto="TRUPOCAL DE" largo="568" posicion="15"/>
+                <palet alto="1327" ancho="583" cantidadProducto="944" delante="false" idPalet="60265" idProducto="TRUPOCRYL A-18" largo="752" posicion="15"/>
+                <palet alto="1379" ancho="837" cantidadProducto="617" delante="true" idPalet="84281" idProducto="TRUPON AP" largo="505" posicion="16"/>
+                <palet alto="1227" ancho="834" cantidadProducto="561" delante="true" idPalet="96328" idProducto="TRUPOCRYL A-18" largo="889" posicion="17"/>
+                <palet alto="1075" ancho="767" cantidadProducto="960" delante="false" idPalet="48451" idProducto="TRUPOTAN MON" largo="629" posicion="17"/>
+                <palet alto="1060" ancho="610" cantidadProducto="941" delante="true" idPalet="92882" idProducto="TRUPON CM" largo="809" posicion="18"/>
+                <palet alto="1191" ancho="833" cantidadProducto="606" delante="false" idPalet="28694" idProducto="TRUPOSYL TBK" largo="930" posicion="18"/>
+                <palet alto="1268" ancho="536" cantidadProducto="403" delante="true" idPalet="78552" idProducto="TRUPOCRYL K-U-310" largo="653" posicion="19"/>
+                <palet alto="1327" ancho="582" cantidadProducto="962" delante="false" idPalet="52855" idProducto="TRUPOCRYL A-32" largo="786" posicion="19"/>
+                <palet alto="1110" ancho="692" cantidadProducto="846" delante="true" idPalet="71945" idProducto="TRUPOTAN MOW" largo="900" posicion="20"/>
+                <palet alto="865" ancho="939" cantidadProducto="436" delante="false" idPalet="88944" idProducto="SOLVOTAN TACTO" largo="940" posicion="20"/>
+                <palet alto="1339" ancho="646" cantidadProducto="868" delante="true" idPalet="362" idProducto="TRUPOFIN CERA 3A" largo="967" posicion="21"/>
+                <palet alto="1005" ancho="983" cantidadProducto="873" delante="true" idPalet="83622" idProducto="TRUPOFIN CERA CA" largo="524" posicion="23"/>
+                <palet alto="1195" ancho="766" cantidadProducto="927" delante="true" idPalet="2732" idProducto="TRUPOSYL TBD" largo="850" posicion="24"/>
+                <palet alto="763" ancho="737" cantidadProducto="835" delante="false" idPalet="91892" idProducto="TRUPOTEC S" largo="715" posicion="24"/>
+            </balda>
+            <balda altura="5">
+                <palet alto="1096" ancho="913" cantidadProducto="880" delante="true" idPalet="38350" idProducto="TRUPOTAN MON" largo="633" posicion="1"/>
+                <palet alto="509" ancho="683" cantidadProducto="608" delante="false" idPalet="62011" idProducto="TRUPOFIN CERA 3A" largo="539" posicion="1"/>
+                <palet alto="1109" ancho="814" cantidadProducto="396" delante="true" idPalet="23101" idProducto="TRUPOSIST S-BO" largo="825" posicion="3"/>
+                <palet alto="1195" ancho="821" cantidadProducto="726" delante="false" idPalet="3745" idProducto="TRUPOSLIP P" largo="683" posicion="5"/>
+                <palet alto="1152" ancho="832" cantidadProducto="420" delante="false" idPalet="97460" idProducto="TRUPOSYL TBD" largo="959" posicion="6"/>
+                <palet alto="735" ancho="792" cantidadProducto="899" delante="false" idPalet="8357" idProducto="TRUPOCRYL A-28" largo="813" posicion="7"/>
+                <palet alto="1421" ancho="963" cantidadProducto="904" delante="true" idPalet="5737" idProducto="TRUPOZYM CL" largo="832" posicion="9"/>
+                <palet alto="1052" ancho="685" cantidadProducto="828" delante="true" idPalet="52476" idProducto="TRUPOZYM AX" largo="876" posicion="10"/>
+                <palet alto="1082" ancho="853" cantidadProducto="564" delante="false" idPalet="42288" idProducto="TRUPOCRYL A-18" largo="897" posicion="10"/>
+                <palet alto="514" ancho="507" cantidadProducto="540" delante="true" idPalet="79258" idProducto="TRUKALIN K" largo="650" posicion="11"/>
+                <palet alto="659" ancho="730" cantidadProducto="309" delante="true" idPalet="2991" idProducto="TRUPOFIN CERA FP" largo="837" posicion="12"/>
+                <palet alto="1170" ancho="568" cantidadProducto="409" delante="false" idPalet="4703" idProducto="TRUPOTAN OM" largo="555" posicion="12"/>
+                <palet alto="670" ancho="983" cantidadProducto="433" delante="false" idPalet="21553" idProducto="TRUPOFIN CERA E" largo="807" posicion="13"/>
+                <palet alto="873" ancho="938" cantidadProducto="462" delante="true" idPalet="34778" idProducto="TRUPOCRYL A-30" largo="701" posicion="14"/>
+                <palet alto="532" ancho="717" cantidadProducto="341" delante="false" idPalet="59064" idProducto="TRUPOFIN CERA E" largo="860" posicion="14"/>
+                <palet alto="1075" ancho="528" cantidadProducto="577" delante="true" idPalet="84350" idProducto="TRUPOSYL TBD" largo="501" posicion="15"/>
+                <palet alto="781" ancho="647" cantidadProducto="806" delante="true" idPalet="49271" idProducto="TRUPOFIN CERA 3A" largo="923" posicion="16"/>
+                <palet alto="1415" ancho="819" cantidadProducto="580" delante="true" idPalet="6361" idProducto="TRUPOCRYL A-35" largo="649" posicion="18"/>
+                <palet alto="629" ancho="685" cantidadProducto="804" delante="false" idPalet="27496" idProducto="TRUPOCRYL K-U-27" largo="898" posicion="19"/>
+                <palet alto="1419" ancho="884" cantidadProducto="591" delante="true" idPalet="62188" idProducto="PASTOSOL F" largo="767" posicion="20"/>
+                <palet alto="1465" ancho="655" cantidadProducto="433" delante="false" idPalet="27382" idProducto="PASTOSOL F" largo="594" posicion="20"/>
+                <palet alto="888" ancho="577" cantidadProducto="624" delante="true" idPalet="67569" idProducto="PASTOSOL F" largo="605" posicion="21"/>
+                <palet alto="969" ancho="815" cantidadProducto="391" delante="true" idPalet="29193" idProducto="TRUPOCRYL A-28" largo="929" posicion="22"/>
+                <palet alto="1255" ancho="795" cantidadProducto="384" delante="false" idPalet="78414" idProducto="SOLVOTAN XS" largo="509" posicion="23"/>
+                <palet alto="1021" ancho="934" cantidadProducto="679" delante="true" idPalet="87710" idProducto="TRUPONAT NF" largo="981" posicion="24"/>
+                <palet alto="546" ancho="513" cantidadProducto="526" delante="false" idPalet="12035" idProducto="SOLVOTAN TACTO" largo="591" posicion="24"/>
+            </balda>
+            <balda altura="6">
+                <palet alto="1278" ancho="884" cantidadProducto="517" delante="true" idPalet="26262" idProducto="TRUPOTEC S" largo="825" posicion="1"/>
+                <palet alto="617" ancho="815" cantidadProducto="729" delante="false" idPalet="34994" idProducto="TRUPOZYM AB" largo="527" posicion="1"/>
+                <palet alto="1100" ancho="861" cantidadProducto="728" delante="true" idPalet="81093" idProducto="TRUPOFIN CERA D-80" largo="561" posicion="2"/>
+                <palet alto="998" ancho="986" cantidadProducto="662" delante="false" idPalet="64078" idProducto="TRUKALIN K" largo="831" posicion="2"/>
+                <palet alto="1109" ancho="836" cantidadProducto="886" delante="true" idPalet="62238" idProducto="TRUPOSIST D" largo="884" posicion="3"/>
+                <palet alto="1147" ancho="910" cantidadProducto="935" delante="false" idPalet="91096" idProducto="TRUPOTAN OM" largo="658" posicion="3"/>
+                <palet alto="594" ancho="928" cantidadProducto="738" delante="true" idPalet="15931" idProducto="TRUPOCRYL K-U-327" largo="783" posicion="6"/>
+                <palet alto="1329" ancho="964" cantidadProducto="419" delante="true" idPalet="57042" idProducto="TRUPOSIST S-BO" largo="512" posicion="7"/>
+                <palet alto="1037" ancho="680" cantidadProducto="691" delante="true" idPalet="42528" idProducto="TRUPOTEC S" largo="592" posicion="8"/>
+                <palet alto="1176" ancho="545" cantidadProducto="974" delante="true" idPalet="87061" idProducto="TRUPOSOL WBF" largo="767" posicion="9"/>
+                <palet alto="1103" ancho="692" cantidadProducto="904" delante="true" idPalet="76787" idProducto="TRUPOCRYL A-20" largo="762" posicion="10"/>
+                <palet alto="556" ancho="862" cantidadProducto="823" delante="true" idPalet="93953" idProducto="TRUPOFIN CERA HP" largo="632" posicion="11"/>
+                <palet alto="990" ancho="612" cantidadProducto="757" delante="false" idPalet="27924" idProducto="TRUPOFIN CERA KT 08" largo="890" posicion="11"/>
+                <palet alto="1011" ancho="585" cantidadProducto="657" delante="true" idPalet="75552" idProducto="TRUPOFIN CERA FP" largo="997" posicion="12"/>
+                <palet alto="795" ancho="635" cantidadProducto="669" delante="false" idPalet="73366" idProducto="TRUPOWET PH" largo="550" posicion="12"/>
+                <palet alto="1271" ancho="746" cantidadProducto="494" delante="false" idPalet="70428" idProducto="ANTIFOAM NSP" largo="652" posicion="13"/>
+                <palet alto="617" ancho="763" cantidadProducto="509" delante="true" idPalet="90752" idProducto="TRUPOFIN CERA E" largo="970" posicion="14"/>
+                <palet alto="830" ancho="906" cantidadProducto="642" delante="false" idPalet="89094" idProducto="PASTOSOL KC" largo="623" posicion="14"/>
+                <palet alto="1295" ancho="723" cantidadProducto="856" delante="true" idPalet="28975" idProducto="TRUPOCRYL A-20" largo="871" posicion="15"/>
+                <palet alto="1274" ancho="568" cantidadProducto="430" delante="true" idPalet="87843" idProducto="TRUPOFIN CERA A" largo="999" posicion="16"/>
+                <palet alto="817" ancho="809" cantidadProducto="525" delante="true" idPalet="23889" idProducto="TRUPOSIST D" largo="768" posicion="17"/>
+                <palet alto="1230" ancho="530" cantidadProducto="903" delante="true" idPalet="25005" idProducto="TRUPOFIN CERA FP" largo="889" posicion="18"/>
+                <palet alto="1462" ancho="650" cantidadProducto="996" delante="false" idPalet="67882" idProducto="TRUPOFIN CERA D-80" largo="659" posicion="18"/>
+                <palet alto="686" ancho="619" cantidadProducto="637" delante="false" idPalet="37498" idProducto="TRUPON AP" largo="855" posicion="19"/>
+                <palet alto="936" ancho="784" cantidadProducto="554" delante="true" idPalet="25726" idProducto="TRUPOZYM CL" largo="598" posicion="21"/>
+                <palet alto="697" ancho="932" cantidadProducto="725" delante="false" idPalet="37304" idProducto="TRUPON DBS" largo="737" posicion="21"/>
+                <palet alto="816" ancho="895" cantidadProducto="976" delante="true" idPalet="21556" idProducto="TRUPOSYL HBD" largo="623" posicion="22"/>
+                <palet alto="1264" ancho="910" cantidadProducto="305" delante="false" idPalet="49912" idProducto="TRUPOCRYL A-10" largo="909" posicion="22"/>
+                <palet alto="1487" ancho="835" cantidadProducto="916" delante="true" idPalet="95757" idProducto="TRUPOCRYL A-18" largo="534" posicion="23"/>
+                <palet alto="1113" ancho="818" cantidadProducto="860" delante="false" idPalet="57399" idProducto="TRUPOCRYL K-U-10" largo="979" posicion="23"/>
+            </balda>
+            <balda altura="7">
+                <palet alto="736" ancho="787" cantidadProducto="837" delante="true" idPalet="87375" idProducto="ANTIFOAM NSP" largo="716" posicion="1"/>
+                <palet alto="1287" ancho="640" cantidadProducto="607" delante="false" idPalet="92328" idProducto="TRUPOZYM CB" largo="504" posicion="1"/>
+                <palet alto="994" ancho="947" cantidadProducto="599" delante="true" idPalet="39719" idProducto="TRUPOSIST S-BO" largo="645" posicion="2"/>
+                <palet alto="536" ancho="899" cantidadProducto="315" delante="false" idPalet="45303" idProducto="ANTIFOAM NSP" largo="821" posicion="2"/>
+                <palet alto="876" ancho="858" cantidadProducto="497" delante="true" idPalet="57393" idProducto="TRUPOFIN CERA BT" largo="993" posicion="3"/>
+                <palet alto="1023" ancho="944" cantidadProducto="666" delante="false" idPalet="21393" idProducto="TRUPOCRYL A-35" largo="714" posicion="3"/>
+                <palet alto="763" ancho="741" cantidadProducto="649" delante="false" idPalet="19386" idProducto="PASTOSOL BCN" largo="623" posicion="4"/>
+                <palet alto="1283" ancho="846" cantidadProducto="666" delante="false" idPalet="25632" idProducto="TRUPOFIN CERA D-80" largo="717" posicion="5"/>
+                <palet alto="861" ancho="777" cantidadProducto="413" delante="true" idPalet="70851" idProducto="ANTIFOAM NSP" largo="669" posicion="6"/>
+                <palet alto="1409" ancho="915" cantidadProducto="689" delante="false" idPalet="26517" idProducto="TRUPONAT LA" largo="948" posicion="6"/>
+                <palet alto="1172" ancho="685" cantidadProducto="746" delante="true" idPalet="87636" idProducto="TRUPOFIN CERA D-80" largo="518" posicion="7"/>
+                <palet alto="1409" ancho="801" cantidadProducto="549" delante="true" idPalet="24435" idProducto="TRUPOCRYL K-U-327" largo="730" posicion="8"/>
+                <palet alto="553" ancho="686" cantidadProducto="994" delante="true" idPalet="10587" idProducto="TRUPOSEPT FP" largo="727" posicion="9"/>
+                <palet alto="660" ancho="996" cantidadProducto="338" delante="false" idPalet="63806" idProducto="PASTOSOL DG" largo="998" posicion="10"/>
+                <palet alto="1409" ancho="534" cantidadProducto="878" delante="true" idPalet="41760" idProducto="TRUPON AP" largo="552" posicion="11"/>
+                <palet alto="1185" ancho="617" cantidadProducto="792" delante="false" idPalet="46137" idProducto="TRUPOSIST D" largo="967" posicion="11"/>
+                <palet alto="882" ancho="783" cantidadProducto="894" delante="true" idPalet="87648" idProducto="TRUPOSYL TBK" largo="690" posicion="12"/>
+                <palet alto="983" ancho="942" cantidadProducto="989" delante="true" idPalet="39557" idProducto="TRUPOFIN CERA E" largo="894" posicion="13"/>
+                <palet alto="1428" ancho="632" cantidadProducto="564" delante="false" idPalet="8909" idProducto="TRUPOCAL DE" largo="868" posicion="13"/>
+                <palet alto="983" ancho="531" cantidadProducto="703" delante="true" idPalet="21890" idProducto="TRUPOSOL WBF" largo="779" posicion="14"/>
+                <palet alto="932" ancho="680" cantidadProducto="916" delante="true" idPalet="41316" idProducto="TRUPOCRYL K-A-30" largo="826" posicion="15"/>
+                <palet alto="1209" ancho="936" cantidadProducto="644" delante="true" idPalet="20325" idProducto="TRUPOFIN CERA DP" largo="591" posicion="16"/>
+                <palet alto="1443" ancho="614" cantidadProducto="812" delante="false" idPalet="54368" idProducto="TRUPON DBS" largo="523" posicion="16"/>
+                <palet alto="643" ancho="702" cantidadProducto="587" delante="true" idPalet="61234" idProducto="TRUPON DBS" largo="664" posicion="19"/>
+                <palet alto="1015" ancho="565" cantidadProducto="767" delante="false" idPalet="49132" idProducto="SOLVOTAN TACTO" largo="756" posicion="20"/>
+                <palet alto="567" ancho="895" cantidadProducto="746" delante="true" idPalet="22742" idProducto="PASTOSOL DG" largo="667" posicion="21"/>
+            </balda>
+            <balda altura="8">
+                <palet alto="1391" ancho="508" cantidadProducto="967" delante="true" idPalet="66414" idProducto="TRUPOFIN CERA W" largo="625" posicion="1"/>
+                <palet alto="1404" ancho="529" cantidadProducto="844" delante="true" idPalet="45365" idProducto="TRUPOCRYL AB" largo="867" posicion="2"/>
+                <palet alto="1023" ancho="719" cantidadProducto="886" delante="false" idPalet="10227" idProducto="TRUPOFIN CERA PV" largo="924" posicion="2"/>
+                <palet alto="1033" ancho="807" cantidadProducto="815" delante="true" idPalet="25097" idProducto="TRUPOFIN CERA E" largo="632" posicion="3"/>
+                <palet alto="715" ancho="527" cantidadProducto="534" delante="false" idPalet="21684" idProducto="TRUPOTAN MON" largo="604" posicion="3"/>
+                <palet alto="974" ancho="658" cantidadProducto="441" delante="true" idPalet="7966" idProducto="TRUPOCAL DE" largo="780" posicion="4"/>
+                <palet alto="771" ancho="805" cantidadProducto="332" delante="true" idPalet="60978" idProducto="TRUPOSYL ABS" largo="910" posicion="5"/>
+                <palet alto="503" ancho="649" cantidadProducto="900" delante="false" idPalet="42779" idProducto="TRUPOWET SA" largo="687" posicion="5"/>
+                <palet alto="925" ancho="946" cantidadProducto="756" delante="true" idPalet="58589" idProducto="TRUPON CM" largo="823" posicion="6"/>
+                <palet alto="1235" ancho="730" cantidadProducto="619" delante="true" idPalet="15933" idProducto="TRUPOFIN CERA PV" largo="917" posicion="7"/>
+                <palet alto="904" ancho="865" cantidadProducto="887" delante="false" idPalet="54502" idProducto="TRUPOCRYL K-A-30" largo="755" posicion="7"/>
+                <palet alto="1061" ancho="631" cantidadProducto="350" delante="true" idPalet="23969" idProducto="TRUPOTAN MON" largo="851" posicion="8"/>
+                <palet alto="1475" ancho="672" cantidadProducto="500" delante="false" idPalet="25802" idProducto="TRUPOCRYL K-A-30" largo="778" posicion="9"/>
+                <palet alto="1154" ancho="832" cantidadProducto="732" delante="false" idPalet="44838" idProducto="TRUPOFIN CERA HF" largo="817" posicion="10"/>
+                <palet alto="999" ancho="536" cantidadProducto="929" delante="true" idPalet="22016" idProducto="TRUPOSYL ABS" largo="893" posicion="11"/>
+                <palet alto="601" ancho="750" cantidadProducto="798" delante="false" idPalet="33541" idProducto="TRUPOWET SA" largo="867" posicion="11"/>
+                <palet alto="581" ancho="580" cantidadProducto="836" delante="true" idPalet="1340" idProducto="PASTOSOL DG" largo="848" posicion="12"/>
+                <palet alto="847" ancho="917" cantidadProducto="810" delante="false" idPalet="48712" idProducto="TRUPOSEPT BA" largo="671" posicion="12"/>
+                <palet alto="1192" ancho="915" cantidadProducto="897" delante="true" idPalet="62658" idProducto="TRUPOFIN CERA BT" largo="521" posicion="14"/>
+                <palet alto="1427" ancho="887" cantidadProducto="869" delante="false" idPalet="14459" idProducto="TRUPOFIN CERA A" largo="922" posicion="14"/>
+                <palet alto="858" ancho="671" cantidadProducto="827" delante="true" idPalet="64057" idProducto="SOLVOTAN TACTO" largo="984" posicion="15"/>
+                <palet alto="636" ancho="918" cantidadProducto="567" delante="true" idPalet="54403" idProducto="TRUPOFIN CERA HF" largo="828" posicion="16"/>
+                <palet alto="1357" ancho="881" cantidadProducto="779" delante="false" idPalet="28485" idProducto="TRUPOZYM AX" largo="908" posicion="16"/>
+                <palet alto="1427" ancho="845" cantidadProducto="406" delante="true" idPalet="1450" idProducto="TRUPOZYM AX" largo="904" posicion="17"/>
+                <palet alto="884" ancho="629" cantidadProducto="680" delante="true" idPalet="70417" idProducto="TRUPOCRYL A-28" largo="794" posicion="18"/>
+                <palet alto="1497" ancho="751" cantidadProducto="903" delante="false" idPalet="82258" idProducto="TRUPOSYL HBD" largo="980" posicion="18"/>
+                <palet alto="874" ancho="536" cantidadProducto="953" delante="false" idPalet="7774" idProducto="TRUPOFIN CERA HS" largo="944" posicion="19"/>
+                <palet alto="1092" ancho="817" cantidadProducto="716" delante="false" idPalet="63387" idProducto="TRUPOSLIP P" largo="601" posicion="20"/>
+                <palet alto="584" ancho="542" cantidadProducto="871" delante="true" idPalet="92559" idProducto="PASTOSOL MD" largo="943" posicion="24"/>
+                <palet alto="815" ancho="573" cantidadProducto="694" delante="false" idPalet="11165" idProducto="TRUPOFIN CERA D-80" largo="722" posicion="24"/>
+            </balda>
+        </estanteria>
+        <estanteria numero="3">
+            <balda altura="1">
+                <palet alto="1281" ancho="755" cantidadProducto="412" delante="true" idPalet="43738" idProducto="TRUPONAT NF" largo="579" posicion="1"/>
+                <palet alto="847" ancho="655" cantidadProducto="762" delante="false" idPalet="6086" idProducto="TRUPON PEM" largo="551" posicion="1"/>
+                <palet alto="653" ancho="967" cantidadProducto="840" delante="false" idPalet="40870" idProducto="TRUPONAT LA" largo="706" posicion="3"/>
+                <palet alto="661" ancho="605" cantidadProducto="659" delante="true" idPalet="34830" idProducto="TRUPOSOL WBF" largo="533" posicion="4"/>
+                <palet alto="1484" ancho="669" cantidadProducto="413" delante="false" idPalet="64927" idProducto="TRUPON AP" largo="834" posicion="4"/>
+                <palet alto="1199" ancho="972" cantidadProducto="754" delante="true" idPalet="16633" idProducto="ANTIFOAM NSP" largo="627" posicion="6"/>
+                <palet alto="1040" ancho="841" cantidadProducto="460" delante="false" idPalet="74578" idProducto="PASTOSOL MD" largo="544" posicion="6"/>
+                <palet alto="584" ancho="595" cantidadProducto="853" delante="true" idPalet="53014" idProducto="TRUPOCRYL A–90" largo="623" posicion="7"/>
+                <palet alto="825" ancho="710" cantidadProducto="717" delante="false" idPalet="97139" idProducto="TRUPOZYM AB" largo="970" posicion="7"/>
+                <palet alto="618" ancho="740" cantidadProducto="300" delante="true" idPalet="84827" idProducto="TRUPOFIN CERA PW" largo="719" posicion="8"/>
+                <palet alto="1166" ancho="680" cantidadProducto="550" delante="true" idPalet="50504" idProducto="ANTIFOAM NSP" largo="736" posicion="9"/>
+                <palet alto="1164" ancho="911" cantidadProducto="860" delante="false" idPalet="81450" idProducto="TRUPOSEPT BA" largo="794" posicion="10"/>
+                <palet alto="983" ancho="899" cantidadProducto="464" delante="true" idPalet="77163" idProducto="SOLVOTAN XS" largo="763" posicion="11"/>
+                <palet alto="1201" ancho="717" cantidadProducto="544" delante="false" idPalet="54577" idProducto="TRUPOFIN CERA SP" largo="792" posicion="11"/>
+                <palet alto="892" ancho="943" cantidadProducto="574" delante="true" idPalet="43145" idProducto="TRUPOCRYL K-A-30" largo="596" posicion="12"/>
+                <palet alto="1309" ancho="744" cantidadProducto="874" delante="false" idPalet="31987" idProducto="TRUPOCRYL A-28" largo="756" posicion="12"/>
+                <palet alto="1154" ancho="866" cantidadProducto="729" delante="true" idPalet="88063" idProducto="TRUPOFIN CERA D-80" largo="621" posicion="13"/>
+                <palet alto="1494" ancho="927" cantidadProducto="718" delante="false" idPalet="95715" idProducto="TRUPOFIN CERA E" largo="757" posicion="13"/>
+                <palet alto="994" ancho="511" cantidadProducto="375" delante="true" idPalet="74994" idProducto="TRUPOSYL TBK" largo="727" posicion="14"/>
+                <palet alto="1233" ancho="758" cantidadProducto="318" delante="false" idPalet="82023" idProducto="TRUPON PEM" largo="706" posicion="14"/>
+                <palet alto="1013" ancho="757" cantidadProducto="940" delante="true" idPalet="40915" idProducto="TRUPOFIN CERA SP" largo="860" posicion="16"/>
+                <palet alto="1021" ancho="604" cantidadProducto="951" delante="true" idPalet="32671" idProducto="TRUPOCRYL A-35" largo="907" posicion="17"/>
+                <palet alto="799" ancho="694" cantidadProducto="546" delante="false" idPalet="55826" idProducto="TRUPOWET PH" largo="543" posicion="17"/>
+                <palet alto="1493" ancho="749" cantidadProducto="500" delante="true" idPalet="56849" idProducto="TRUPOZYM CL" largo="953" posicion="18"/>
+                <palet alto="1366" ancho="510" cantidadProducto="370" delante="false" idPalet="68466" idProducto="TRUPOZYM AX" largo="625" posicion="18"/>
+                <palet alto="551" ancho="989" cantidadProducto="746" delante="true" idPalet="74614" idProducto="TRUPOCRYL A-32" largo="768" posicion="20"/>
+                <palet alto="882" ancho="759" cantidadProducto="990" delante="false" idPalet="60731" idProducto="TRUPOCRYL A-10" largo="698" posicion="20"/>
+                <palet alto="1360" ancho="619" cantidadProducto="447" delante="false" idPalet="18283" idProducto="PASTOSOL KC" largo="694" posicion="21"/>
+                <palet alto="1468" ancho="689" cantidadProducto="878" delante="true" idPalet="22225" idProducto="TRUPON DB-80" largo="741" posicion="22"/>
+                <palet alto="1255" ancho="947" cantidadProducto="339" delante="true" idPalet="11293" idProducto="TRUPOFIN CERA W" largo="892" posicion="23"/>
+                <palet alto="1074" ancho="707" cantidadProducto="906" delante="false" idPalet="58775" idProducto="TRUPOFIN CERA KT 08" largo="919" posicion="23"/>
+            </balda>
+            <balda altura="2">
+                <palet alto="514" ancho="582" cantidadProducto="468" delante="true" idPalet="21261" idProducto="PASTOSOL KC" largo="870" posicion="2"/>
+                <palet alto="556" ancho="872" cantidadProducto="875" delante="false" idPalet="36804" idProducto="TRUPOCRYL K-U-10" largo="990" posicion="3"/>
+                <palet alto="1184" ancho="828" cantidadProducto="905" delante="false" idPalet="68553" idProducto="TRUPOCAL AF" largo="646" posicion="4"/>
+                <palet alto="703" ancho="723" cantidadProducto="316" delante="false" idPalet="13639" idProducto="TRUPOFIN CERA HS" largo="710" posicion="5"/>
+                <palet alto="896" ancho="989" cantidadProducto="695" delante="true" idPalet="51078" idProducto="TRUPOSEPT FP" largo="638" posicion="6"/>
+                <palet alto="948" ancho="838" cantidadProducto="318" delante="false" idPalet="63768" idProducto="TRUPOTAN MOW" largo="965" posicion="7"/>
+                <palet alto="1396" ancho="652" cantidadProducto="547" delante="true" idPalet="76878" idProducto="TRUPOSIST S-BO" largo="886" posicion="8"/>
+                <palet alto="1150" ancho="780" cantidadProducto="456" delante="false" idPalet="86935" idProducto="SOLVOTAN XS" largo="592" posicion="8"/>
+                <palet alto="1218" ancho="586" cantidadProducto="614" delante="true" idPalet="10569" idProducto="PASTOSOL MD" largo="973" posicion="9"/>
+                <palet alto="1165" ancho="756" cantidadProducto="705" delante="false" idPalet="26395" idProducto="TRUPON CM" largo="776" posicion="9"/>
+                <palet alto="771" ancho="837" cantidadProducto="624" delante="true" idPalet="31578" idProducto="TRUPON PEM" largo="657" posicion="12"/>
+                <palet alto="846" ancho="837" cantidadProducto="427" delante="true" idPalet="47160" idProducto="TRUPOFIN CERA HS" largo="506" posicion="13"/>
+                <palet alto="978" ancho="718" cantidadProducto="675" delante="true" idPalet="78787" idProducto="TRUPOFIN CERA CA" largo="726" posicion="15"/>
+                <palet alto="856" ancho="512" cantidadProducto="950" delante="true" idPalet="5632" idProducto="TRUPOFIN CERA M" largo="661" posicion="16"/>
+                <palet alto="798" ancho="650" cantidadProducto="722" delante="false" idPalet="34290" idProducto="TRUPOCRYL A-30" largo="636" posicion="16"/>
+                <palet alto="1472" ancho="948" cantidadProducto="544" delante="true" idPalet="59" idProducto="TRUPOFIN CERA DP" largo="969" posicion="18"/>
+                <palet alto="737" ancho="798" cantidadProducto="700" delante="true" idPalet="12269" idProducto="TRUPON COL" largo="683" posicion="19"/>
+                <palet alto="1125" ancho="843" cantidadProducto="554" delante="false" idPalet="4526" idProducto="TRUPOFIN CERA SP" largo="597" posicion="19"/>
+                <palet alto="1437" ancho="704" cantidadProducto="753" delante="true" idPalet="53506" idProducto="TRUPOFIN CERA W" largo="523" posicion="20"/>
+                <palet alto="1116" ancho="553" cantidadProducto="881" delante="false" idPalet="30106" idProducto="TRUPOSYL TBA" largo="824" posicion="21"/>
+                <palet alto="1449" ancho="597" cantidadProducto="567" delante="false" idPalet="69025" idProducto="TRUPOCRYL K-U-327" largo="844" posicion="22"/>
+                <palet alto="1393" ancho="975" cantidadProducto="421" delante="true" idPalet="7066" idProducto="TRUPOFIN CERA W" largo="572" posicion="23"/>
+                <palet alto="1073" ancho="984" cantidadProducto="692" delante="false" idPalet="93704" idProducto="TRUPOCAL DE" largo="517" posicion="23"/>
+            </balda>
+            <balda altura="3">
+                <palet alto="1490" ancho="912" cantidadProducto="876" delante="true" idPalet="34908" idProducto="TRUKALIN K" largo="817" posicion="2"/>
+                <palet alto="1007" ancho="939" cantidadProducto="336" delante="false" idPalet="48140" idProducto="PASTOSOL HW" largo="719" posicion="2"/>
+                <palet alto="1039" ancho="669" cantidadProducto="838" delante="true" idPalet="66408" idProducto="TRUPOZYM CH" largo="532" posicion="4"/>
+                <palet alto="1263" ancho="629" cantidadProducto="450" delante="false" idPalet="88172" idProducto="TRUPOZYM CB" largo="629" posicion="4"/>
+                <palet alto="1487" ancho="720" cantidadProducto="370" delante="true" idPalet="41598" idProducto="TRUPOSIST S-BO" largo="922" posicion="5"/>
+                <palet alto="874" ancho="505" cantidadProducto="404" delante="false" idPalet="57455" idProducto="TRUPOFIN CERA FP" largo="634" posicion="5"/>
+                <palet alto="1274" ancho="680" cantidadProducto="876" delante="false" idPalet="5623" idProducto="TRUPOWET PH" largo="728" posicion="6"/>
+                <palet alto="1226" ancho="801" cantidadProducto="821" delante="false" idPalet="13880" idProducto="TRUPOSYL ABS" largo="951" posicion="7"/>
+                <palet alto="1361" ancho="805" cantidadProducto="660" delante="true" idPalet="28062" idProducto="TRUPOFIN CERA FP" largo="585" posicion="8"/>
+                <palet alto="1317" ancho="688" cantidadProducto="493" delante="false" idPalet="32482" idProducto="TRUPOZYM CL" largo="791" posicion="8"/>
+                <palet alto="1448" ancho="710" cantidadProducto="466" delante="true" idPalet="8698" idProducto="TRUPOCRYL K-U-27" largo="755" posicion="9"/>
+                <palet alto="1435" ancho="535" cantidadProducto="658" delante="false" idPalet="49990" idProducto="TRUPON CST" largo="660" posicion="9"/>
+                <palet alto="968" ancho="615" cantidadProducto="484" delante="false" idPalet="19752" idProducto="SOLVOTAN XS" largo="815" posicion="10"/>
+                <palet alto="548" ancho="623" cantidadProducto="624" delante="false" idPalet="94707" idProducto="TRUPON CST" largo="680" posicion="11"/>
+                <palet alto="857" ancho="789" cantidadProducto="680" delante="true" idPalet="66480" idProducto="TRUPOSYL ABS" largo="624" posicion="12"/>
+                <palet alto="1090" ancho="669" cantidadProducto="794" delante="false" idPalet="49349" idProducto="TRUPOZYM AX" largo="988" posicion="12"/>
+                <palet alto="693" ancho="983" cantidadProducto="588" delante="true" idPalet="41218" idProducto="TRUPON AP" largo="969" posicion="13"/>
+                <palet alto="856" ancho="645" cantidadProducto="993" delante="true" idPalet="74484" idProducto="TRUPOCRYL A-20" largo="597" posicion="14"/>
+                <palet alto="1244" ancho="770" cantidadProducto="433" delante="true" idPalet="98631" idProducto="TRUPOCAL AF" largo="771" posicion="15"/>
+                <palet alto="632" ancho="587" cantidadProducto="506" delante="false" idPalet="66157" idProducto="TRUPOFIN CERA HF" largo="508" posicion="15"/>
+                <palet alto="1131" ancho="867" cantidadProducto="796" delante="true" idPalet="79197" idProducto="TRUPOCRYL A-10" largo="881" posicion="16"/>
+                <palet alto="1380" ancho="800" cantidadProducto="647" delante="false" idPalet="64255" idProducto="PASTOSOL MD" largo="694" posicion="17"/>
+                <palet alto="1089" ancho="638" cantidadProducto="509" delante="true" idPalet="34223" idProducto="TRUPOSEPT BA" largo="613" posicion="20"/>
+                <palet alto="1372" ancho="545" cantidadProducto="443" delante="true" idPalet="17903" idProducto="TRUPOSIST S-BO" largo="813" posicion="21"/>
+                <palet alto="1122" ancho="603" cantidadProducto="980" delante="false" idPalet="97288" idProducto="TRUPOZYM CB" largo="760" posicion="21"/>
+                <palet alto="596" ancho="898" cantidadProducto="814" delante="true" idPalet="47842" idProducto="TRUPOFIN CERA CA" largo="539" posicion="22"/>
+                <palet alto="787" ancho="523" cantidadProducto="965" delante="false" idPalet="87405" idProducto="TRUPOCAL AF" largo="525" posicion="22"/>
+                <palet alto="891" ancho="760" cantidadProducto="904" delante="true" idPalet="84800" idProducto="TRUPON CM" largo="982" posicion="23"/>
+                <palet alto="968" ancho="559" cantidadProducto="806" delante="false" idPalet="11118" idProducto="TRUPOFIN CERA P" largo="932" posicion="23"/>
+                <palet alto="898" ancho="905" cantidadProducto="338" delante="false" idPalet="77551" idProducto="TRUPON DBS" largo="627" posicion="24"/>
+            </balda>
+            <balda altura="4">
+                <palet alto="1404" ancho="894" cantidadProducto="408" delante="true" idPalet="51394" idProducto="TRUPOSYL ABS" largo="581" posicion="1"/>
+                <palet alto="598" ancho="850" cantidadProducto="519" delante="true" idPalet="37884" idProducto="TRUPOTAN MON" largo="811" posicion="3"/>
+                <palet alto="504" ancho="900" cantidadProducto="554" delante="false" idPalet="17647" idProducto="TRUPON DB-80" largo="745" posicion="3"/>
+                <palet alto="1113" ancho="883" cantidadProducto="853" delante="false" idPalet="29819" idProducto="TRUPOTAN MOW" largo="746" posicion="4"/>
+                <palet alto="1108" ancho="814" cantidadProducto="367" delante="true" idPalet="21283" idProducto="TRUPOCAL AF" largo="878" posicion="6"/>
+                <palet alto="1228" ancho="623" cantidadProducto="910" delante="false" idPalet="65529" idProducto="TRUPOSIST D" largo="669" posicion="7"/>
+                <palet alto="766" ancho="619" cantidadProducto="931" delante="false" idPalet="14855" idProducto="TRUPOZYM CL" largo="734" posicion="8"/>
+                <palet alto="1282" ancho="820" cantidadProducto="636" delante="true" idPalet="60651" idProducto="TRUPOFIN CERA CA" largo="614" posicion="9"/>
+                <palet alto="1425" ancho="991" cantidadProducto="737" delante="false" idPalet="15079" idProducto="TRUPONAT LA" largo="749" posicion="9"/>
+                <palet alto="1487" ancho="726" cantidadProducto="614" delante="false" idPalet="22762" idProducto="TRUPOZYM CN" largo="689" posicion="10"/>
+                <palet alto="1332" ancho="604" cantidadProducto="518" delante="false" idPalet="88928" idProducto="TRUPOFIN CERA K-A" largo="885" posicion="11"/>
+                <palet alto="976" ancho="949" cantidadProducto="544" delante="true" idPalet="99389" idProducto="TRUPOZYM AX" largo="858" posicion="12"/>
+                <palet alto="1331" ancho="762" cantidadProducto="409" delante="true" idPalet="75596" idProducto="TRUPOSYL TBD" largo="890" posicion="13"/>
+                <palet alto="842" ancho="781" cantidadProducto="489" delante="false" idPalet="42574" idProducto="TRUPON CM" largo="829" posicion="13"/>
+                <palet alto="1194" ancho="882" cantidadProducto="634" delante="true" idPalet="69245" idProducto="SOLVOTAN TACTO" largo="769" posicion="15"/>
+                <palet alto="1437" ancho="571" cantidadProducto="564" delante="false" idPalet="91148" idProducto="TRUPOCAL AF" largo="973" posicion="15"/>
+                <palet alto="661" ancho="849" cantidadProducto="492" delante="true" idPalet="10758" idProducto="TRUPOCRYL A-28" largo="947" posicion="16"/>
+                <palet alto="1040" ancho="689" cantidadProducto="645" delante="false" idPalet="765" idProducto="TRUPOZYM CB" largo="710" posicion="16"/>
+                <palet alto="731" ancho="568" cantidadProducto="321" delante="true" idPalet="45404" idProducto="TRUPON BMF" largo="752" posicion="17"/>
+                <palet alto="1239" ancho="561" cantidadProducto="997" delante="false" idPalet="15378" idProducto="TRUPONAT LA" largo="773" posicion="18"/>
+                <palet alto="1204" ancho="912" cantidadProducto="891" delante="true" idPalet="22831" idProducto="TRUPOFIN CERA CA" largo="522" posicion="20"/>
+                <palet alto="1009" ancho="575" cantidadProducto="863" delante="true" idPalet="79460" idProducto="TRUPOFIN CERA HP" largo="945" posicion="21"/>
+                <palet alto="1338" ancho="622" cantidadProducto="458" delante="true" idPalet="32670" idProducto="TRUPOCAL DE" largo="806" posicion="22"/>
+                <palet alto="746" ancho="976" cantidadProducto="847" delante="false" idPalet="99135" idProducto="TRUPOCRYL AB" largo="681" posicion="22"/>
+                <palet alto="1261" ancho="730" cantidadProducto="824" delante="true" idPalet="96364" idProducto="TRUPOZYM AB" largo="997" posicion="23"/>
+                <palet alto="1422" ancho="674" cantidadProducto="692" delante="false" idPalet="1180" idProducto="TRUPOSOL WBF" largo="844" posicion="24"/>
+            </balda>
+            <balda altura="5">
+                <palet alto="1098" ancho="825" cantidadProducto="553" delante="false" idPalet="82631" idProducto="TRUPOZYM AX" largo="532" posicion="1"/>
+                <palet alto="821" ancho="746" cantidadProducto="334" delante="true" idPalet="96896" idProducto="TRUPOFIN CERA CA" largo="720" posicion="2"/>
+                <palet alto="578" ancho="793" cantidadProducto="425" delante="true" idPalet="14020" idProducto="TRUPOSYL TBK" largo="531" posicion="3"/>
+                <palet alto="1008" ancho="689" cantidadProducto="340" delante="false" idPalet="59584" idProducto="TRUPOSIST D" largo="626" posicion="3"/>
+                <palet alto="700" ancho="759" cantidadProducto="964" delante="true" idPalet="82051" idProducto="TRUPOZYM CN" largo="855" posicion="5"/>
+                <palet alto="591" ancho="998" cantidadProducto="508" delante="false" idPalet="12323" idProducto="TRUPOSIST D" largo="556" posicion="5"/>
+                <palet alto="716" ancho="892" cantidadProducto="593" delante="true" idPalet="40822" idProducto="TRUPOCRYL K-A-30" largo="523" posicion="6"/>
+                <palet alto="1381" ancho="790" cantidadProducto="412" delante="false" idPalet="56310" idProducto="TRUPON DBS" largo="906" posicion="6"/>
+                <palet alto="557" ancho="789" cantidadProducto="724" delante="false" idPalet="98213" idProducto="TRUPOL RK" largo="509" posicion="8"/>
+                <palet alto="515" ancho="520" cantidadProducto="812" delante="true" idPalet="51049" idProducto="TRUPON DBS" largo="988" posicion="9"/>
+                <palet alto="1375" ancho="508" cantidadProducto="918" delante="false" idPalet="62728" idProducto="TRUPONAT NF" largo="739" posicion="10"/>
+                <palet alto="529" ancho="862" cantidadProducto="358" delante="false" idPalet="52152" idProducto="TRUPOSIST S-BO" largo="556" posicion="11"/>
+                <palet alto="672" ancho="601" cantidadProducto="470" delante="true" idPalet="65331" idProducto="TRUPOCRYL K-A-30" largo="881" posicion="12"/>
+                <palet alto="1293" ancho="745" cantidadProducto="750" delante="false" idPalet="13171" idProducto="TRUPOFIN CERA M" largo="631" posicion="12"/>
+                <palet alto="650" ancho="810" cantidadProducto="462" delante="false" idPalet="82792" idProducto="PASTOSOL KC" largo="814" posicion="13"/>
+                <palet alto="1203" ancho="902" cantidadProducto="998" delante="true" idPalet="47997" idProducto="TRUPOZYM CL" largo="514" posicion="14"/>
+                <palet alto="593" ancho="713" cantidadProducto="561" delante="false" idPalet="50311" idProducto="TRUPOFIN CERA M" largo="869" posicion="14"/>
+                <palet alto="966" ancho="523" cantidadProducto="487" delante="true" idPalet="31805" idProducto="TRUPOWET PH" largo="825" posicion="16"/>
+                <palet alto="512" ancho="664" cantidadProducto="463" delante="true" idPalet="98408" idProducto="TRUPOCRYL A-20" largo="806" posicion="17"/>
+                <palet alto="1204" ancho="971" cantidadProducto="317" delante="true" idPalet="37343" idProducto="TRUPOCRYL A–90" largo="960" posicion="18"/>
+                <palet alto="560" ancho="655" cantidadProducto="418" delante="true" idPalet="98776" idProducto="TRUPOCAL AF" largo="610" posicion="19"/>
+                <palet alto="1413" ancho="903" cantidadProducto="466" delante="false" idPalet="34971" idProducto="TRUPOSIST S-BO" largo="846" posicion="19"/>
+                <palet alto="1375" ancho="733" cantidadProducto="446" delante="true" idPalet="52960" idProducto="TRUPOFIN CERA CA" largo="890" posicion="20"/>
+                <palet alto="1116" ancho="692" cantidadProducto="588" delante="false" idPalet="56796" idProducto="TRUPOTAN OM" largo="711" posicion="20"/>
+                <palet alto="1216" ancho="593" cantidadProducto="768" delante="true" idPalet="24589" idProducto="TRUPOTAN OM" largo="968" posicion="21"/>
+                <palet alto="995" ancho="542" cantidadProducto="398" delante="false" idPalet="1518" idProducto="TRUPOFIN CERA HP" largo="572" posicion="21"/>
+                <palet alto="584" ancho="725" cantidadProducto="336" delante="true" idPalet="59525" idProducto="TRUPOTAN MON" largo="518" posicion="22"/>
+                <palet alto="939" ancho="991" cantidadProducto="591" delante="false" idPalet="31495" idProducto="TRUPON COL" largo="662" posicion="22"/>
+                <palet alto="942" ancho="582" cantidadProducto="392" delante="true" idPalet="30184" idProducto="PASTOSOL F" largo="551" posicion="23"/>
+                <palet alto="1481" ancho="847" cantidadProducto="413" delante="false" idPalet="94524" idProducto="TRUPOCRYL A-20" largo="537" posicion="24"/>
+            </balda>
+            <balda altura="6">
+                <palet alto="555" ancho="725" cantidadProducto="546" delante="true" idPalet="82044" idProducto="TRUPOSYL ABS" largo="509" posicion="1"/>
+                <palet alto="1330" ancho="698" cantidadProducto="713" delante="false" idPalet="81352" idProducto="TRUPON CM" largo="945" posicion="1"/>
+                <palet alto="701" ancho="924" cantidadProducto="349" delante="true" idPalet="64000" idProducto="TRUPOSIST D" largo="882" posicion="2"/>
+                <palet alto="1252" ancho="783" cantidadProducto="321" delante="true" idPalet="11838" idProducto="TRUPOZYM CN" largo="829" posicion="3"/>
+                <palet alto="774" ancho="513" cantidadProducto="647" delante="false" idPalet="32144" idProducto="TRUPOFIN CERA W" largo="808" posicion="3"/>
+                <palet alto="1117" ancho="789" cantidadProducto="405" delante="false" idPalet="25183" idProducto="TRUPOCRYL A-35" largo="673" posicion="5"/>
+                <palet alto="904" ancho="580" cantidadProducto="466" delante="true" idPalet="8725" idProducto="TRUPOZYM CB" largo="825" posicion="6"/>
+                <palet alto="1467" ancho="969" cantidadProducto="611" delante="false" idPalet="498" idProducto="TRUPOZYM CB" largo="919" posicion="7"/>
+                <palet alto="1131" ancho="533" cantidadProducto="802" delante="true" idPalet="89501" idProducto="TRUPOFIN CERA E" largo="742" posicion="8"/>
+                <palet alto="1384" ancho="818" cantidadProducto="959" delante="false" idPalet="24956" idProducto="TRUPOCRYL A-32" largo="951" posicion="8"/>
+                <palet alto="719" ancho="631" cantidadProducto="592" delante="true" idPalet="26873" idProducto="TRUPOCRYL K-U-327" largo="604" posicion="9"/>
+                <palet alto="551" ancho="873" cantidadProducto="566" delante="true" idPalet="78534" idProducto="TRUPOFIN CERA A" largo="883" posicion="10"/>
+                <palet alto="837" ancho="554" cantidadProducto="448" delante="false" idPalet="51088" idProducto="TRUPOFIN CERA E" largo="692" posicion="10"/>
+                <palet alto="818" ancho="655" cantidadProducto="729" delante="false" idPalet="83679" idProducto="TRUPOCAL AF" largo="671" posicion="11"/>
+                <palet alto="983" ancho="861" cantidadProducto="315" delante="true" idPalet="63416" idProducto="TRUPOWET PH" largo="813" posicion="12"/>
+                <palet alto="1143" ancho="863" cantidadProducto="460" delante="false" idPalet="21512" idProducto="TRUPOCRYL A–90" largo="973" posicion="12"/>
+                <palet alto="1378" ancho="770" cantidadProducto="663" delante="false" idPalet="18720" idProducto="TRUPOFIN CERA E" largo="611" posicion="14"/>
+                <palet alto="1486" ancho="919" cantidadProducto="812" delante="true" idPalet="36934" idProducto="TRUPOFIN CERA 3A" largo="655" posicion="16"/>
+                <palet alto="951" ancho="564" cantidadProducto="390" delante="true" idPalet="68594" idProducto="TRUPON DB-80" largo="723" posicion="17"/>
+                <palet alto="1340" ancho="782" cantidadProducto="950" delante="false" idPalet="82255" idProducto="TRUPOFIN CERA D-80" largo="770" posicion="18"/>
+                <palet alto="939" ancho="706" cantidadProducto="955" delante="true" idPalet="73727" idProducto="TRUPOCAL AF" largo="537" posicion="19"/>
+                <palet alto="1004" ancho="577" cantidadProducto="595" delante="false" idPalet="13097" idProducto="TRUPON CST" largo="973" posicion="19"/>
+                <palet alto="782" ancho="798" cantidadProducto="779" delante="true" idPalet="51490" idProducto="TRUPOFIN CERA HP" largo="837" posicion="20"/>
+                <palet alto="556" ancho="681" cantidadProducto="538" delante="true" idPalet="27822" idProducto="TRUPOFIN CERA E" largo="939" posicion="22"/>
+                <palet alto="1105" ancho="638" cantidadProducto="977" delante="true" idPalet="72887" idProducto="TRUPOCRYL A-18" largo="810" posicion="23"/>
+                <palet alto="802" ancho="878" cantidadProducto="416" delante="false" idPalet="26170" idProducto="TRUPOCRYL A-20" largo="760" posicion="24"/>
+            </balda>
+            <balda altura="7">
+                <palet alto="750" ancho="662" cantidadProducto="362" delante="false" idPalet="11502" idProducto="TRUPOZYM AB" largo="949" posicion="1"/>
+                <palet alto="742" ancho="572" cantidadProducto="512" delante="true" idPalet="74971" idProducto="PASTOSOL MD" largo="826" posicion="2"/>
+                <palet alto="999" ancho="700" cantidadProducto="790" delante="true" idPalet="35870" idProducto="SOLVOTAN TACTO" largo="521" posicion="3"/>
+                <palet alto="904" ancho="695" cantidadProducto="344" delante="true" idPalet="4812" idProducto="TRUPOFIN CERA HP" largo="663" posicion="4"/>
+                <palet alto="1477" ancho="775" cantidadProducto="728" delante="false" idPalet="74590" idProducto="TRUPOSYL TBA" largo="610" posicion="4"/>
+                <palet alto="1089" ancho="787" cantidadProducto="995" delante="true" idPalet="71909" idProducto="TRUPOCRYL A-20" largo="719" posicion="5"/>
+                <palet alto="1331" ancho="601" cantidadProducto="649" delante="false" idPalet="13591" idProducto="TRUPOFIN CERA PW" largo="611" posicion="6"/>
+                <palet alto="1044" ancho="588" cantidadProducto="569" delante="true" idPalet="57155" idProducto="TRUPOFIN CERA 3A" largo="825" posicion="7"/>
+                <palet alto="1233" ancho="695" cantidadProducto="693" delante="false" idPalet="59006" idProducto="TRUPOCRYL A-20" largo="892" posicion="7"/>
+                <palet alto="1225" ancho="612" cantidadProducto="420" delante="true" idPalet="94580" idProducto="TRUPOSIST S-BO" largo="753" posicion="8"/>
+                <palet alto="1010" ancho="728" cantidadProducto="692" delante="false" idPalet="12370" idProducto="TRUPON BMF" largo="637" posicion="8"/>
+                <palet alto="880" ancho="853" cantidadProducto="865" delante="true" idPalet="39623" idProducto="TRUPOSIST D" largo="551" posicion="9"/>
+                <palet alto="694" ancho="598" cantidadProducto="794" delante="false" idPalet="14617" idProducto="TRUPOCRYL A-30" largo="780" posicion="10"/>
+                <palet alto="640" ancho="778" cantidadProducto="828" delante="false" idPalet="52463" idProducto="TRUPOCAL DE" largo="859" posicion="12"/>
+                <palet alto="731" ancho="597" cantidadProducto="876" delante="true" idPalet="23256" idProducto="TRUPOCRYL A-20" largo="690" posicion="13"/>
+                <palet alto="862" ancho="800" cantidadProducto="878" delante="false" idPalet="12443" idProducto="TRUPOL RK" largo="740" posicion="13"/>
+                <palet alto="1114" ancho="977" cantidadProducto="801" delante="false" idPalet="78351" idProducto="TRUPONAT NF" largo="881" posicion="14"/>
+                <palet alto="735" ancho="801" cantidadProducto="801" delante="true" idPalet="20987" idProducto="TRUPOSYL TBK" largo="990" posicion="15"/>
+                <palet alto="706" ancho="882" cantidadProducto="671" delante="false" idPalet="90612" idProducto="SOLVOTAN TACTO" largo="711" posicion="16"/>
+                <palet alto="1466" ancho="784" cantidadProducto="538" delante="true" idPalet="5036" idProducto="TRUPOZYM AB" largo="582" posicion="18"/>
+                <palet alto="1325" ancho="904" cantidadProducto="975" delante="false" idPalet="53912" idProducto="SOLVOTAN TACTO" largo="771" posicion="18"/>
+                <palet alto="543" ancho="820" cantidadProducto="530" delante="true" idPalet="63777" idProducto="TRUPON CM" largo="850" posicion="19"/>
+                <palet alto="582" ancho="501" cantidadProducto="628" delante="false" idPalet="17676" idProducto="TRUPOCAL DE" largo="752" posicion="19"/>
+                <palet alto="1483" ancho="572" cantidadProducto="339" delante="false" idPalet="73024" idProducto="TRUPOCRYL A-30" largo="669" posicion="20"/>
+                <palet alto="606" ancho="594" cantidadProducto="457" delante="false" idPalet="70285" idProducto="TRUPOFIN CERA W" largo="544" posicion="21"/>
+                <palet alto="672" ancho="588" cantidadProducto="897" delante="true" idPalet="96813" idProducto="TRUPOCRYL AB" largo="669" posicion="22"/>
+                <palet alto="1269" ancho="947" cantidadProducto="391" delante="false" idPalet="71698" idProducto="TRUPOSYL TBK-E" largo="895" posicion="22"/>
+                <palet alto="1417" ancho="690" cantidadProducto="491" delante="true" idPalet="14882" idProducto="PASTOSOL F" largo="554" posicion="23"/>
+                <palet alto="1122" ancho="510" cantidadProducto="534" delante="false" idPalet="12984" idProducto="TRUPOZYM AX" largo="583" posicion="23"/>
+                <palet alto="583" ancho="923" cantidadProducto="430" delante="true" idPalet="73827" idProducto="ANTIFOAM NSP" largo="901" posicion="24"/>
+                <palet alto="982" ancho="793" cantidadProducto="845" delante="false" idPalet="58268" idProducto="TRUPOSOL WBF" largo="746" posicion="24"/>
+            </balda>
+            <balda altura="8">
+                <palet alto="1291" ancho="540" cantidadProducto="599" delante="true" idPalet="43540" idProducto="TRUPON DBS" largo="949" posicion="3"/>
+                <palet alto="1357" ancho="597" cantidadProducto="618" delante="true" idPalet="74879" idProducto="TRUPOZYM AB" largo="857" posicion="4"/>
+                <palet alto="1195" ancho="544" cantidadProducto="988" delante="false" idPalet="48225" idProducto="TRUPOCAL DE" largo="890" posicion="4"/>
+                <palet alto="1191" ancho="931" cantidadProducto="779" delante="false" idPalet="80470" idProducto="TRUPOTAN OM" largo="810" posicion="5"/>
+                <palet alto="1411" ancho="597" cantidadProducto="534" delante="true" idPalet="7511" idProducto="TRUPOCRYL A-18" largo="812" posicion="6"/>
+                <palet alto="580" ancho="569" cantidadProducto="902" delante="false" idPalet="90585" idProducto="TRUPOZYM CN" largo="749" posicion="6"/>
+                <palet alto="546" ancho="564" cantidadProducto="935" delante="false" idPalet="37457" idProducto="TRUPOZYM CL" largo="873" posicion="7"/>
+                <palet alto="619" ancho="765" cantidadProducto="774" delante="false" idPalet="72619" idProducto="TRUPOFIN CERA KT 08" largo="711" posicion="8"/>
+                <palet alto="1474" ancho="833" cantidadProducto="651" delante="true" idPalet="76251" idProducto="TRUPOSIST S-BO" largo="982" posicion="9"/>
+                <palet alto="871" ancho="516" cantidadProducto="650" delante="false" idPalet="18336" idProducto="SOLVOTAN XS" largo="996" posicion="9"/>
+                <palet alto="1294" ancho="857" cantidadProducto="662" delante="false" idPalet="86636" idProducto="TRUPOSEPT FP" largo="914" posicion="10"/>
+                <palet alto="1202" ancho="904" cantidadProducto="941" delante="true" idPalet="83508" idProducto="TRUPOCRYL A-18" largo="570" posicion="12"/>
+                <palet alto="774" ancho="704" cantidadProducto="844" delante="true" idPalet="57878" idProducto="TRUPON COL" largo="671" posicion="13"/>
+                <palet alto="1075" ancho="982" cantidadProducto="362" delante="false" idPalet="62145" idProducto="SOLVOTAN TACTO" largo="776" posicion="13"/>
+                <palet alto="966" ancho="812" cantidadProducto="836" delante="false" idPalet="88914" idProducto="TRUPON DBS" largo="980" posicion="14"/>
+                <palet alto="1477" ancho="926" cantidadProducto="817" delante="true" idPalet="40431" idProducto="TRUPOFIN CERA K-A" largo="595" posicion="15"/>
+                <palet alto="1321" ancho="992" cantidadProducto="542" delante="false" idPalet="90106" idProducto="TRUPOCAL DE" largo="643" posicion="15"/>
+                <palet alto="703" ancho="875" cantidadProducto="884" delante="true" idPalet="62060" idProducto="TRUPOFIN CERA P" largo="831" posicion="16"/>
+                <palet alto="1463" ancho="952" cantidadProducto="682" delante="false" idPalet="7125" idProducto="TRUPOFIN CERA PW" largo="794" posicion="17"/>
+                <palet alto="890" ancho="930" cantidadProducto="898" delante="true" idPalet="52795" idProducto="TRUPOSYL TBA" largo="746" posicion="18"/>
+                <palet alto="510" ancho="530" cantidadProducto="792" delante="true" idPalet="32573" idProducto="TRUPOZYM CH" largo="943" posicion="20"/>
+                <palet alto="622" ancho="855" cantidadProducto="746" delante="true" idPalet="72838" idProducto="TRUPOSYL TBK-E" largo="872" posicion="21"/>
+                <palet alto="1468" ancho="728" cantidadProducto="431" delante="true" idPalet="93108" idProducto="TRUPOFIN CERA CA" largo="611" posicion="23"/>
+                <palet alto="1034" ancho="804" cantidadProducto="758" delante="false" idPalet="82954" idProducto="TRUPON DBS" largo="708" posicion="24"/>
+            </balda>
+        </estanteria>
+        <estanteria numero="4">
+            <balda altura="1">
+                <palet alto="1271" ancho="728" cantidadProducto="701" delante="false" idPalet="74672" idProducto="TRUPOFIN CERA BT" largo="733" posicion="1"/>
+                <palet alto="820" ancho="727" cantidadProducto="651" delante="true" idPalet="58486" idProducto="TRUPOZYM AB" largo="766" posicion="2"/>
+                <palet alto="1149" ancho="765" cantidadProducto="372" delante="false" idPalet="16772" idProducto="TRUPOWET SA" largo="695" posicion="2"/>
+                <palet alto="1302" ancho="785" cantidadProducto="863" delante="true" idPalet="4482" idProducto="TRUPOCRYL A-10" largo="585" posicion="3"/>
+                <palet alto="1478" ancho="960" cantidadProducto="801" delante="true" idPalet="73903" idProducto="TRUPOFIN CERA HF" largo="882" posicion="4"/>
+                <palet alto="1457" ancho="947" cantidadProducto="632" delante="true" idPalet="50640" idProducto="TRUPOSYL ABS" largo="753" posicion="6"/>
+                <palet alto="879" ancho="520" cantidadProducto="959" delante="false" idPalet="74766" idProducto="TRUPOFIN CERA BT" largo="917" posicion="6"/>
+                <palet alto="1360" ancho="969" cantidadProducto="993" delante="false" idPalet="22253" idProducto="TRUPOCRYL K-U-10" largo="775" posicion="7"/>
+                <palet alto="715" ancho="877" cantidadProducto="643" delante="false" idPalet="44626" idProducto="TRUPOFIN CERA M" largo="998" posicion="8"/>
+                <palet alto="1356" ancho="661" cantidadProducto="837" delante="true" idPalet="54797" idProducto="TRUKALIN K" largo="938" posicion="9"/>
+                <palet alto="884" ancho="887" cantidadProducto="524" delante="true" idPalet="54111" idProducto="TRUPOWET PH" largo="938" posicion="10"/>
+                <palet alto="653" ancho="637" cantidadProducto="666" delante="false" idPalet="31803" idProducto="TRUPOCRYL K-U-10" largo="683" posicion="10"/>
+                <palet alto="528" ancho="550" cantidadProducto="884" delante="true" idPalet="13753" idProducto="TRUPOTAN OM" largo="755" posicion="14"/>
+                <palet alto="597" ancho="732" cantidadProducto="971" delante="false" idPalet="72605" idProducto="TRUPOFIN CERA HF" largo="680" posicion="14"/>
+                <palet alto="599" ancho="743" cantidadProducto="891" delante="true" idPalet="10579" idProducto="TRUPOFIN CERA A" largo="836" posicion="15"/>
+                <palet alto="557" ancho="950" cantidadProducto="708" delante="true" idPalet="92881" idProducto="TRUPOZYM CN" largo="984" posicion="16"/>
+                <palet alto="1016" ancho="617" cantidadProducto="869" delante="false" idPalet="45407" idProducto="TRUPOTEC T" largo="787" posicion="16"/>
+                <palet alto="1420" ancho="756" cantidadProducto="901" delante="true" idPalet="7366" idProducto="TRUPOFIN CERA HP" largo="562" posicion="17"/>
+                <palet alto="686" ancho="596" cantidadProducto="747" delante="false" idPalet="87472" idProducto="TRUPOZYM AX" largo="515" posicion="17"/>
+                <palet alto="733" ancho="508" cantidadProducto="679" delante="true" idPalet="29211" idProducto="TRUPOCRYL A–90" largo="859" posicion="18"/>
+                <palet alto="1366" ancho="700" cantidadProducto="965" delante="false" idPalet="76339" idProducto="PASTOSOL MD" largo="696" posicion="18"/>
+                <palet alto="797" ancho="859" cantidadProducto="615" delante="true" idPalet="88029" idProducto="TRUPOFIN CERA FP" largo="683" posicion="19"/>
+                <palet alto="827" ancho="712" cantidadProducto="411" delante="false" idPalet="46176" idProducto="TRUPOSYL ABS" largo="869" posicion="20"/>
+                <palet alto="779" ancho="515" cantidadProducto="552" delante="true" idPalet="76569" idProducto="TRUPOWET SA" largo="610" posicion="21"/>
+                <palet alto="1473" ancho="664" cantidadProducto="735" delante="true" idPalet="83628" idProducto="TRUPOCRYL A-30" largo="731" posicion="22"/>
+                <palet alto="1144" ancho="828" cantidadProducto="532" delante="false" idPalet="23623" idProducto="TRUPOSEPT BA" largo="940" posicion="22"/>
+                <palet alto="1455" ancho="637" cantidadProducto="546" delante="false" idPalet="3843" idProducto="TRUPON COL" largo="543" posicion="24"/>
+            </balda>
+            <balda altura="2">
+                <palet alto="835" ancho="616" cantidadProducto="935" delante="true" idPalet="1233" idProducto="TRUKALIN K" largo="570" posicion="1"/>
+                <palet alto="767" ancho="869" cantidadProducto="372" delante="false" idPalet="62995" idProducto="TRUPON BMF" largo="803" posicion="1"/>
+                <palet alto="1295" ancho="905" cantidadProducto="812" delante="true" idPalet="59759" idProducto="TRUPOSYL ABS" largo="893" posicion="2"/>
+                <palet alto="587" ancho="778" cantidadProducto="800" delante="false" idPalet="17240" idProducto="TRUPOL RK" largo="663" posicion="2"/>
+                <palet alto="656" ancho="600" cantidadProducto="714" delante="true" idPalet="1352" idProducto="TRUPOFIN CERA W" largo="511" posicion="3"/>
+                <palet alto="659" ancho="829" cantidadProducto="686" delante="false" idPalet="9798" idProducto="TRUPOSOL WBF" largo="970" posicion="3"/>
+                <palet alto="941" ancho="638" cantidadProducto="537" delante="true" idPalet="18395" idProducto="PASTOSOL DG" largo="896" posicion="5"/>
+                <palet alto="849" ancho="517" cantidadProducto="558" delante="false" idPalet="5966" idProducto="TRUPOFIN CERA HP" largo="829" posicion="5"/>
+                <palet alto="1467" ancho="838" cantidadProducto="822" delante="false" idPalet="98894" idProducto="PASTOSOL KC" largo="961" posicion="7"/>
+                <palet alto="1255" ancho="822" cantidadProducto="916" delante="true" idPalet="9082" idProducto="TRUPOSOL WBF" largo="738" posicion="8"/>
+                <palet alto="1494" ancho="935" cantidadProducto="439" delante="true" idPalet="56055" idProducto="TRUPOFIN CERA DP" largo="594" posicion="10"/>
+                <palet alto="646" ancho="752" cantidadProducto="754" delante="false" idPalet="16066" idProducto="TRUPOFIN CERA KT 08" largo="705" posicion="10"/>
+                <palet alto="1021" ancho="892" cantidadProducto="631" delante="true" idPalet="29504" idProducto="TRUPOTAN MON" largo="812" posicion="11"/>
+                <palet alto="727" ancho="897" cantidadProducto="466" delante="false" idPalet="18736" idProducto="TRUPOCRYL A-18" largo="881" posicion="11"/>
+                <palet alto="1259" ancho="542" cantidadProducto="444" delante="true" idPalet="68914" idProducto="TRUPOFIN CERA KT 09" largo="819" posicion="13"/>
+                <palet alto="1018" ancho="647" cantidadProducto="479" delante="false" idPalet="40596" idProducto="TRUPOTEC S" largo="586" posicion="13"/>
+                <palet alto="824" ancho="611" cantidadProducto="852" delante="false" idPalet="921" idProducto="TRUPOCRYL A-32" largo="952" posicion="14"/>
+                <palet alto="1336" ancho="967" cantidadProducto="577" delante="true" idPalet="17712" idProducto="TRUPOCRYL K-U-310" largo="832" posicion="15"/>
+                <palet alto="1472" ancho="693" cantidadProducto="770" delante="false" idPalet="86251" idProducto="TRUPOCRYL A-10" largo="505" posicion="16"/>
+                <palet alto="1072" ancho="721" cantidadProducto="721" delante="true" idPalet="82132" idProducto="TRUPOZYM CB" largo="987" posicion="17"/>
+                <palet alto="1034" ancho="827" cantidadProducto="902" delante="false" idPalet="63013" idProducto="TRUPOCRYL K-A-30" largo="889" posicion="17"/>
+                <palet alto="872" ancho="837" cantidadProducto="345" delante="false" idPalet="4475" idProducto="PASTOSOL F" largo="987" posicion="18"/>
+                <palet alto="856" ancho="544" cantidadProducto="960" delante="true" idPalet="57594" idProducto="TRUPOCRYL A-28" largo="943" posicion="21"/>
+                <palet alto="522" ancho="588" cantidadProducto="734" delante="true" idPalet="93043" idProducto="TRUPOSYL ABS" largo="753" posicion="22"/>
+                <palet alto="930" ancho="522" cantidadProducto="629" delante="false" idPalet="71391" idProducto="TRUPON PEM" largo="550" posicion="22"/>
+                <palet alto="959" ancho="689" cantidadProducto="843" delante="true" idPalet="91217" idProducto="PASTOSOL F" largo="559" posicion="23"/>
+                <palet alto="730" ancho="865" cantidadProducto="470" delante="true" idPalet="81518" idProducto="TRUPOCRYL K-U-10" largo="948" posicion="24"/>
+                <palet alto="1442" ancho="669" cantidadProducto="516" delante="false" idPalet="67543" idProducto="TRUPOZYM CH" largo="739" posicion="24"/>
+            </balda>
+            <balda altura="3">
+                <palet alto="990" ancho="505" cantidadProducto="936" delante="true" idPalet="52805" idProducto="TRUPOCRYL K-A-30" largo="999" posicion="3"/>
+                <palet alto="1073" ancho="770" cantidadProducto="572" delante="true" idPalet="81054" idProducto="TRUPOCRYL A-18" largo="608" posicion="4"/>
+                <palet alto="545" ancho="606" cantidadProducto="529" delante="true" idPalet="84790" idProducto="TRUPOCAL AF" largo="553" posicion="5"/>
+                <palet alto="1195" ancho="870" cantidadProducto="658" delante="true" idPalet="59755" idProducto="TRUPOFIN CERA E" largo="904" posicion="6"/>
+                <palet alto="1468" ancho="978" cantidadProducto="862" delante="false" idPalet="93258" idProducto="TRUPOSYL TBD" largo="897" posicion="6"/>
+                <palet alto="1393" ancho="516" cantidadProducto="594" delante="true" idPalet="21244" idProducto="TRUPON CST" largo="587" posicion="7"/>
+                <palet alto="1159" ancho="738" cantidadProducto="677" delante="false" idPalet="99058" idProducto="TRUPOTAN OM" largo="636" posicion="7"/>
+                <palet alto="552" ancho="870" cantidadProducto="900" delante="true" idPalet="9706" idProducto="TRUPOSOL WBF" largo="972" posicion="8"/>
+                <palet alto="1023" ancho="967" cantidadProducto="739" delante="false" idPalet="22702" idProducto="TRUPOCRYL A-35" largo="705" posicion="8"/>
+                <palet alto="918" ancho="583" cantidadProducto="359" delante="false" idPalet="26472" idProducto="ANTIFOAM NSP" largo="975" posicion="10"/>
+                <palet alto="681" ancho="725" cantidadProducto="512" delante="false" idPalet="27088" idProducto="TRUPOCRYL A–90" largo="823" posicion="11"/>
+                <palet alto="596" ancho="720" cantidadProducto="922" delante="true" idPalet="24963" idProducto="TRUPOFIN CERA D-80" largo="594" posicion="12"/>
+                <palet alto="954" ancho="833" cantidadProducto="603" delante="false" idPalet="1782" idProducto="TRUPOZYM CN" largo="795" posicion="12"/>
+                <palet alto="583" ancho="985" cantidadProducto="520" delante="true" idPalet="53637" idProducto="TRUPOTAN MON" largo="661" posicion="13"/>
+                <palet alto="1362" ancho="899" cantidadProducto="858" delante="false" idPalet="46700" idProducto="PASTOSOL F" largo="927" posicion="13"/>
+                <palet alto="781" ancho="657" cantidadProducto="874" delante="true" idPalet="24989" idProducto="TRUPOSYL TBA" largo="876" posicion="14"/>
+                <palet alto="849" ancho="572" cantidadProducto="345" delante="false" idPalet="98645" idProducto="TRUPOCAL DE" largo="501" posicion="14"/>
+                <palet alto="873" ancho="847" cantidadProducto="360" delante="false" idPalet="96160" idProducto="ANTIFOAM NSP" largo="947" posicion="15"/>
+                <palet alto="1029" ancho="925" cantidadProducto="599" delante="true" idPalet="81981" idProducto="TRUPOCRYL K-U-10" largo="696" posicion="16"/>
+                <palet alto="664" ancho="882" cantidadProducto="702" delante="false" idPalet="680" idProducto="TRUPON CM" largo="811" posicion="16"/>
+                <palet alto="1454" ancho="782" cantidadProducto="470" delante="true" idPalet="66267" idProducto="TRUPOSIST D" largo="587" posicion="17"/>
+                <palet alto="517" ancho="797" cantidadProducto="992" delante="false" idPalet="90813" idProducto="TRUPOFIN CERA A" largo="716" posicion="17"/>
+                <palet alto="616" ancho="535" cantidadProducto="670" delante="true" idPalet="37807" idProducto="TRUPONAT NF" largo="612" posicion="18"/>
+                <palet alto="749" ancho="928" cantidadProducto="400" delante="false" idPalet="19150" idProducto="SOLVOTAN TACTO" largo="764" posicion="18"/>
+                <palet alto="524" ancho="583" cantidadProducto="819" delante="true" idPalet="97111" idProducto="TRUPON CM" largo="602" posicion="19"/>
+                <palet alto="1262" ancho="867" cantidadProducto="777" delante="false" idPalet="61367" idProducto="TRUPOCRYL K-U-27" largo="756" posicion="19"/>
+                <palet alto="984" ancho="728" cantidadProducto="864" delante="true" idPalet="38924" idProducto="TRUKALIN K" largo="636" posicion="20"/>
+                <palet alto="879" ancho="573" cantidadProducto="573" delante="false" idPalet="96999" idProducto="TRUPOFIN CERA HP" largo="594" posicion="20"/>
+                <palet alto="1150" ancho="847" cantidadProducto="992" delante="true" idPalet="54190" idProducto="TRUPOFIN CERA E" largo="941" posicion="21"/>
+                <palet alto="1201" ancho="746" cantidadProducto="578" delante="true" idPalet="91700" idProducto="TRUPOCAL AF" largo="797" posicion="22"/>
+                <palet alto="614" ancho="681" cantidadProducto="829" delante="true" idPalet="95144" idProducto="TRUPOSOL WBF" largo="624" posicion="24"/>
+                <palet alto="740" ancho="541" cantidadProducto="667" delante="false" idPalet="32690" idProducto="TRUPOCRYL A-35" largo="772" posicion="24"/>
+            </balda>
+            <balda altura="4">
+                <palet alto="1292" ancho="850" cantidadProducto="505" delante="true" idPalet="48118" idProducto="TRUPOL RK" largo="539" posicion="1"/>
+                <palet alto="1337" ancho="931" cantidadProducto="906" delante="false" idPalet="59775" idProducto="TRUPOCRYL A-10" largo="621" posicion="2"/>
+                <palet alto="988" ancho="920" cantidadProducto="343" delante="false" idPalet="52578" idProducto="TRUPOTAN MON" largo="537" posicion="4"/>
+                <palet alto="890" ancho="687" cantidadProducto="418" delante="true" idPalet="16972" idProducto="TRUPOCAL DE" largo="790" posicion="5"/>
+                <palet alto="775" ancho="535" cantidadProducto="745" delante="false" idPalet="48490" idProducto="TRUPOFIN CERA SP" largo="989" posicion="5"/>
+                <palet alto="795" ancho="508" cantidadProducto="926" delante="true" idPalet="53879" idProducto="TRUPOFIN CERA K-A" largo="758" posicion="6"/>
+                <palet alto="1392" ancho="653" cantidadProducto="705" delante="false" idPalet="29121" idProducto="TRUPOFIN CERA E" largo="757" posicion="6"/>
+                <palet alto="659" ancho="894" cantidadProducto="531" delante="true" idPalet="92254" idProducto="TRUPOFIN CERA D-80" largo="592" posicion="7"/>
+                <palet alto="1260" ancho="694" cantidadProducto="426" delante="false" idPalet="58981" idProducto="TRUPOSLIP P" largo="654" posicion="7"/>
+                <palet alto="1387" ancho="831" cantidadProducto="662" delante="false" idPalet="55284" idProducto="TRUPOWET PH" largo="773" posicion="9"/>
+                <palet alto="660" ancho="569" cantidadProducto="338" delante="false" idPalet="78323" idProducto="TRUPON COL" largo="763" posicion="10"/>
+                <palet alto="587" ancho="708" cantidadProducto="748" delante="true" idPalet="71096" idProducto="TRUPOWET SA" largo="639" posicion="11"/>
+                <palet alto="1015" ancho="676" cantidadProducto="568" delante="true" idPalet="49448" idProducto="TRUPOWET PH" largo="515" posicion="12"/>
+                <palet alto="1475" ancho="917" cantidadProducto="378" delante="true" idPalet="96309" idProducto="TRUPOCRYL A-18" largo="835" posicion="14"/>
+                <palet alto="669" ancho="547" cantidadProducto="735" delante="false" idPalet="29968" idProducto="TRUPOTEC S" largo="685" posicion="14"/>
+                <palet alto="860" ancho="622" cantidadProducto="621" delante="true" idPalet="52580" idProducto="TRUPOSYL TBA" largo="629" posicion="15"/>
+                <palet alto="516" ancho="780" cantidadProducto="787" delante="false" idPalet="31023" idProducto="TRUPOCRYL A–90" largo="690" posicion="15"/>
+                <palet alto="718" ancho="565" cantidadProducto="490" delante="true" idPalet="98632" idProducto="TRUPOCRYL A-18" largo="870" posicion="16"/>
+                <palet alto="1069" ancho="564" cantidadProducto="983" delante="true" idPalet="1007" idProducto="TRUPOSYL HBD" largo="874" posicion="17"/>
+                <palet alto="911" ancho="950" cantidadProducto="592" delante="false" idPalet="24541" idProducto="TRUPON CST" largo="555" posicion="17"/>
+                <palet alto="1029" ancho="822" cantidadProducto="979" delante="true" idPalet="81484" idProducto="TRUPOFIN CERA HF" largo="630" posicion="18"/>
+                <palet alto="1095" ancho="670" cantidadProducto="964" delante="false" idPalet="79081" idProducto="PASTOSOL DG" largo="666" posicion="18"/>
+                <palet alto="1317" ancho="766" cantidadProducto="436" delante="true" idPalet="62717" idProducto="TRUPOSEPT BA" largo="526" posicion="19"/>
+                <palet alto="1052" ancho="726" cantidadProducto="341" delante="false" idPalet="67839" idProducto="TRUKALIN K" largo="951" posicion="19"/>
+                <palet alto="991" ancho="817" cantidadProducto="444" delante="false" idPalet="5626" idProducto="TRUPON CM" largo="685" posicion="20"/>
+                <palet alto="1366" ancho="595" cantidadProducto="329" delante="true" idPalet="36091" idProducto="PASTOSOL MD" largo="977" posicion="21"/>
+                <palet alto="1413" ancho="764" cantidadProducto="540" delante="false" idPalet="87398" idProducto="PASTOSOL MD" largo="782" posicion="21"/>
+                <palet alto="1487" ancho="742" cantidadProducto="383" delante="true" idPalet="38006" idProducto="PASTOSOL HW" largo="802" posicion="22"/>
+                <palet alto="1221" ancho="549" cantidadProducto="998" delante="false" idPalet="43430" idProducto="TRUPOZYM CL" largo="826" posicion="23"/>
+                <palet alto="548" ancho="806" cantidadProducto="566" delante="true" idPalet="80109" idProducto="TRUPOFIN CERA FP" largo="953" posicion="24"/>
+                <palet alto="1193" ancho="664" cantidadProducto="701" delante="false" idPalet="50017" idProducto="PASTOSOL DG" largo="611" posicion="24"/>
+            </balda>
+            <balda altura="5">
+                <palet alto="1111" ancho="569" cantidadProducto="796" delante="true" idPalet="78994" idProducto="TRUPOFIN CERA A" largo="825" posicion="1"/>
+                <palet alto="1334" ancho="921" cantidadProducto="485" delante="false" idPalet="3764" idProducto="TRUPOFIN CERA KT 09" largo="507" posicion="2"/>
+                <palet alto="603" ancho="656" cantidadProducto="967" delante="true" idPalet="85908" idProducto="TRUPOCRYL K-U-27" largo="532" posicion="3"/>
+                <palet alto="748" ancho="750" cantidadProducto="517" delante="true" idPalet="87526" idProducto="TRUPOFIN CERA KT 09" largo="876" posicion="4"/>
+                <palet alto="673" ancho="900" cantidadProducto="397" delante="false" idPalet="40261" idProducto="TRUPOCRYL A-32" largo="573" posicion="5"/>
+                <palet alto="1362" ancho="888" cantidadProducto="538" delante="false" idPalet="17233" idProducto="TRUPOSOL WBF" largo="591" posicion="6"/>
+                <palet alto="591" ancho="625" cantidadProducto="747" delante="true" idPalet="40166" idProducto="TRUPOSEPT BA" largo="920" posicion="7"/>
+                <palet alto="1295" ancho="541" cantidadProducto="429" delante="true" idPalet="11532" idProducto="TRUPOFIN CERA BT" largo="660" posicion="8"/>
+                <palet alto="643" ancho="684" cantidadProducto="798" delante="false" idPalet="50246" idProducto="TRUPOCRYL A-30" largo="749" posicion="8"/>
+                <palet alto="609" ancho="785" cantidadProducto="533" delante="true" idPalet="53495" idProducto="TRUPOCRYL A-28" largo="846" posicion="9"/>
+                <palet alto="612" ancho="555" cantidadProducto="930" delante="false" idPalet="13202" idProducto="TRUPOFIN CERA HF" largo="670" posicion="9"/>
+                <palet alto="1088" ancho="662" cantidadProducto="724" delante="true" idPalet="79594" idProducto="TRUPON CM" largo="989" posicion="10"/>
+                <palet alto="530" ancho="813" cantidadProducto="442" delante="false" idPalet="67064" idProducto="TRUPON DBS" largo="506" posicion="10"/>
+                <palet alto="1115" ancho="513" cantidadProducto="352" delante="false" idPalet="41860" idProducto="TRUPOCAL AF" largo="748" posicion="11"/>
+                <palet alto="877" ancho="629" cantidadProducto="931" delante="false" idPalet="60039" idProducto="ANTIFOAM NSP" largo="516" posicion="12"/>
+                <palet alto="1374" ancho="866" cantidadProducto="914" delante="true" idPalet="82368" idProducto="TRUPOTEC T" largo="620" posicion="14"/>
+                <palet alto="702" ancho="520" cantidadProducto="389" delante="true" idPalet="97549" idProducto="TRUPOZYM AB" largo="691" posicion="15"/>
+                <palet alto="1047" ancho="907" cantidadProducto="978" delante="false" idPalet="95360" idProducto="TRUPON COL" largo="594" posicion="15"/>
+                <palet alto="1269" ancho="605" cantidadProducto="668" delante="false" idPalet="29135" idProducto="TRUPOZYM CB" largo="584" posicion="17"/>
+                <palet alto="1196" ancho="965" cantidadProducto="983" delante="true" idPalet="11484" idProducto="PASTOSOL F" largo="735" posicion="18"/>
+                <palet alto="1191" ancho="709" cantidadProducto="331" delante="false" idPalet="19849" idProducto="TRUPOFIN CERA E" largo="827" posicion="18"/>
+                <palet alto="735" ancho="733" cantidadProducto="988" delante="false" idPalet="22046" idProducto="PASTOSOL KC" largo="659" posicion="19"/>
+                <palet alto="1338" ancho="883" cantidadProducto="775" delante="false" idPalet="81845" idProducto="PASTOSOL BCN" largo="960" posicion="20"/>
+                <palet alto="957" ancho="639" cantidadProducto="427" delante="false" idPalet="45644" idProducto="TRUPOFIN CERA CA" largo="520" posicion="21"/>
+                <palet alto="649" ancho="834" cantidadProducto="446" delante="true" idPalet="21949" idProducto="TRUPON CST" largo="823" posicion="23"/>
+                <palet alto="1277" ancho="611" cantidadProducto="884" delante="false" idPalet="7158" idProducto="TRUPOFIN CERA PV" largo="630" posicion="23"/>
+                <palet alto="1183" ancho="746" cantidadProducto="329" delante="false" idPalet="11224" idProducto="TRUPOCRYL AB" largo="503" posicion="24"/>
+            </balda>
+            <balda altura="6">
+                <palet alto="903" ancho="724" cantidadProducto="457" delante="true" idPalet="52471" idProducto="TRUPOFIN CERA M" largo="648" posicion="1"/>
+                <palet alto="948" ancho="736" cantidadProducto="707" delante="false" idPalet="63119" idProducto="TRUPOCRYL A-35" largo="730" posicion="4"/>
+                <palet alto="1118" ancho="654" cantidadProducto="981" delante="true" idPalet="31571" idProducto="TRUPOTEC T" largo="543" posicion="6"/>
+                <palet alto="980" ancho="546" cantidadProducto="978" delante="false" idPalet="73998" idProducto="TRUPOFIN CERA BT" largo="608" posicion="6"/>
+                <palet alto="1399" ancho="839" cantidadProducto="524" delante="true" idPalet="55546" idProducto="TRUPOFIN CERA K-A" largo="913" posicion="7"/>
+                <palet alto="570" ancho="857" cantidadProducto="769" delante="false" idPalet="43533" idProducto="TRUKALIN K" largo="880" posicion="7"/>
+                <palet alto="1179" ancho="987" cantidadProducto="718" delante="false" idPalet="31492" idProducto="TRUPOFIN CERA BT" largo="638" posicion="8"/>
+                <palet alto="985" ancho="784" cantidadProducto="474" delante="true" idPalet="95212" idProducto="TRUPOZYM CN" largo="634" posicion="9"/>
+                <palet alto="1344" ancho="528" cantidadProducto="877" delante="false" idPalet="37835" idProducto="PASTOSOL BCN" largo="768" posicion="9"/>
+                <palet alto="726" ancho="884" cantidadProducto="767" delante="true" idPalet="95424" idProducto="TRUPOCRYL K-A-30" largo="900" posicion="10"/>
+                <palet alto="667" ancho="983" cantidadProducto="828" delante="false" idPalet="87319" idProducto="TRUPOCRYL K-U-10" largo="547" posicion="10"/>
+                <palet alto="1175" ancho="532" cantidadProducto="907" delante="true" idPalet="83127" idProducto="TRUPOCRYL K-U-10" largo="515" posicion="11"/>
+                <palet alto="870" ancho="609" cantidadProducto="305" delante="false" idPalet="15437" idProducto="TRUPOFIN CERA HP" largo="657" posicion="11"/>
+                <palet alto="1191" ancho="756" cantidadProducto="812" delante="true" idPalet="27431" idProducto="TRUPOSYL TBK" largo="503" posicion="12"/>
+                <palet alto="803" ancho="766" cantidadProducto="422" delante="false" idPalet="71738" idProducto="TRUPOFIN CERA A" largo="513" posicion="12"/>
+                <palet alto="1183" ancho="992" cantidadProducto="797" delante="false" idPalet="32372" idProducto="PASTOSOL DG" largo="557" posicion="13"/>
+                <palet alto="956" ancho="680" cantidadProducto="365" delante="true" idPalet="85000" idProducto="SOLVOTAN TACTO" largo="929" posicion="14"/>
+                <palet alto="1468" ancho="694" cantidadProducto="606" delante="true" idPalet="63733" idProducto="TRUPON CST" largo="893" posicion="15"/>
+                <palet alto="705" ancho="700" cantidadProducto="448" delante="false" idPalet="9463" idProducto="PASTOSOL F" largo="925" posicion="15"/>
+                <palet alto="1077" ancho="526" cantidadProducto="497" delante="true" idPalet="99598" idProducto="TRUPOFIN CERA D-80" largo="740" posicion="16"/>
+                <palet alto="1251" ancho="929" cantidadProducto="667" delante="false" idPalet="3884" idProducto="TRUPOTAN MOW" largo="972" posicion="16"/>
+                <palet alto="612" ancho="797" cantidadProducto="789" delante="false" idPalet="23852" idProducto="TRUPOCRYL A-18" largo="570" posicion="17"/>
+                <palet alto="963" ancho="560" cantidadProducto="792" delante="true" idPalet="68086" idProducto="TRUPOSYL HBD" largo="848" posicion="18"/>
+                <palet alto="1487" ancho="900" cantidadProducto="327" delante="true" idPalet="58657" idProducto="SOLVOTAN XS" largo="844" posicion="19"/>
+                <palet alto="1073" ancho="595" cantidadProducto="729" delante="false" idPalet="24323" idProducto="TRUPOFIN CERA BT" largo="699" posicion="19"/>
+                <palet alto="634" ancho="669" cantidadProducto="671" delante="true" idPalet="64093" idProducto="TRUPON COL" largo="525" posicion="20"/>
+                <palet alto="618" ancho="699" cantidadProducto="346" delante="false" idPalet="52705" idProducto="TRUPOSYL HBD" largo="647" posicion="20"/>
+                <palet alto="1419" ancho="693" cantidadProducto="385" delante="true" idPalet="42197" idProducto="TRUPON COL" largo="840" posicion="21"/>
+                <palet alto="696" ancho="773" cantidadProducto="346" delante="false" idPalet="7763" idProducto="SOLVOTAN XS" largo="757" posicion="21"/>
+                <palet alto="801" ancho="781" cantidadProducto="956" delante="false" idPalet="85423" idProducto="TRUPOFIN CERA HP" largo="797" posicion="22"/>
+                <palet alto="1193" ancho="780" cantidadProducto="733" delante="false" idPalet="72756" idProducto="TRUKALIN K" largo="772" posicion="23"/>
+                <palet alto="1243" ancho="690" cantidadProducto="357" delante="true" idPalet="86054" idProducto="PASTOSOL MD" largo="788" posicion="24"/>
+            </balda>
+            <balda altura="7">
+                <palet alto="1062" ancho="557" cantidadProducto="620" delante="true" idPalet="18755" idProducto="TRUPON DBS" largo="759" posicion="2"/>
+                <palet alto="1382" ancho="929" cantidadProducto="700" delante="true" idPalet="45399" idProducto="TRUPOFIN CERA E" largo="657" posicion="4"/>
+                <palet alto="1466" ancho="722" cantidadProducto="655" delante="false" idPalet="16111" idProducto="TRUPOZYM AB" largo="564" posicion="4"/>
+                <palet alto="1046" ancho="592" cantidadProducto="666" delante="true" idPalet="78529" idProducto="TRUPON COL" largo="912" posicion="5"/>
+                <palet alto="652" ancho="649" cantidadProducto="902" delante="false" idPalet="7829" idProducto="TRUPOZYM CB" largo="647" posicion="5"/>
+                <palet alto="908" ancho="668" cantidadProducto="904" delante="false" idPalet="69160" idProducto="TRUPOCRYL A-18" largo="979" posicion="6"/>
+                <palet alto="530" ancho="866" cantidadProducto="994" delante="false" idPalet="72240" idProducto="TRUPOSIST D" largo="973" posicion="7"/>
+                <palet alto="701" ancho="689" cantidadProducto="585" delante="false" idPalet="44046" idProducto="SOLVOTAN XS" largo="864" posicion="10"/>
+                <palet alto="890" ancho="893" cantidadProducto="657" delante="true" idPalet="49612" idProducto="TRUPOFIN CERA K-A" largo="566" posicion="11"/>
+                <palet alto="1427" ancho="724" cantidadProducto="664" delante="true" idPalet="75418" idProducto="TRUPOSLIP P" largo="593" posicion="12"/>
+                <palet alto="1446" ancho="926" cantidadProducto="607" delante="true" idPalet="24550" idProducto="TRUPOSYL TBK" largo="811" posicion="13"/>
+                <palet alto="984" ancho="791" cantidadProducto="866" delante="false" idPalet="97795" idProducto="TRUPOSYL TBA" largo="594" posicion="13"/>
+                <palet alto="835" ancho="989" cantidadProducto="706" delante="false" idPalet="31589" idProducto="TRUPOSYL ABS" largo="999" posicion="14"/>
+                <palet alto="908" ancho="989" cantidadProducto="313" delante="false" idPalet="62884" idProducto="TRUPOSIST S-BO" largo="520" posicion="15"/>
+                <palet alto="616" ancho="859" cantidadProducto="947" delante="true" idPalet="20584" idProducto="TRUKALIN K" largo="775" posicion="16"/>
+                <palet alto="761" ancho="554" cantidadProducto="740" delante="false" idPalet="81557" idProducto="TRUPOCRYL A-18" largo="769" posicion="16"/>
+                <palet alto="1192" ancho="912" cantidadProducto="630" delante="true" idPalet="31537" idProducto="TRUPOFIN CERA CA" largo="810" posicion="17"/>
+                <palet alto="693" ancho="673" cantidadProducto="732" delante="false" idPalet="67921" idProducto="TRUPONAT LA" largo="532" posicion="17"/>
+                <palet alto="1354" ancho="567" cantidadProducto="609" delante="false" idPalet="25195" idProducto="TRUPON DBS" largo="739" posicion="18"/>
+                <palet alto="1455" ancho="691" cantidadProducto="584" delante="true" idPalet="4269" idProducto="PASTOSOL F" largo="962" posicion="19"/>
+                <palet alto="1344" ancho="568" cantidadProducto="379" delante="false" idPalet="19830" idProducto="TRUKALIN K" largo="857" posicion="19"/>
+                <palet alto="856" ancho="877" cantidadProducto="526" delante="true" idPalet="87560" idProducto="TRUPOCRYL A-30" largo="989" posicion="20"/>
+                <palet alto="1371" ancho="550" cantidadProducto="723" delante="false" idPalet="91716" idProducto="TRUPOCAL AF" largo="831" posicion="20"/>
+                <palet alto="558" ancho="617" cantidadProducto="528" delante="true" idPalet="72781" idProducto="TRUPOFIN CERA 3A" largo="669" posicion="22"/>
+                <palet alto="1235" ancho="748" cantidadProducto="645" delante="true" idPalet="89229" idProducto="TRUPOCRYL K-U-10" largo="513" posicion="23"/>
+                <palet alto="595" ancho="635" cantidadProducto="818" delante="true" idPalet="66501" idProducto="PASTOSOL BCN" largo="614" posicion="24"/>
+                <palet alto="546" ancho="847" cantidadProducto="774" delante="false" idPalet="6427" idProducto="TRUPOZYM AB" largo="879" posicion="24"/>
+            </balda>
+            <balda altura="8">
+                <palet alto="745" ancho="803" cantidadProducto="686" delante="true" idPalet="5474" idProducto="TRUPOTEC T" largo="630" posicion="1"/>
+                <palet alto="927" ancho="652" cantidadProducto="601" delante="false" idPalet="91815" idProducto="TRUPOFIN CERA P" largo="751" posicion="1"/>
+                <palet alto="802" ancho="773" cantidadProducto="759" delante="true" idPalet="40913" idProducto="PASTOSOL HW" largo="518" posicion="2"/>
+                <palet alto="1186" ancho="991" cantidadProducto="830" delante="false" idPalet="71895" idProducto="TRUPOCAL DE" largo="627" posicion="3"/>
+                <palet alto="1134" ancho="849" cantidadProducto="834" delante="true" idPalet="75629" idProducto="TRUPOFIN CERA CA" largo="749" posicion="4"/>
+                <palet alto="1071" ancho="805" cantidadProducto="755" delante="false" idPalet="30466" idProducto="TRUPOFIN CERA PW" largo="684" posicion="4"/>
+                <palet alto="1142" ancho="969" cantidadProducto="400" delante="true" idPalet="89855" idProducto="TRUPOSEPT BA" largo="595" posicion="5"/>
+                <palet alto="1390" ancho="709" cantidadProducto="946" delante="false" idPalet="22652" idProducto="TRUPOTEC T" largo="991" posicion="5"/>
+                <palet alto="930" ancho="918" cantidadProducto="564" delante="false" idPalet="62404" idProducto="TRUPOFIN CERA E" largo="843" posicion="6"/>
+                <palet alto="704" ancho="798" cantidadProducto="980" delante="false" idPalet="81970" idProducto="PASTOSOL KC" largo="882" posicion="9"/>
+                <palet alto="877" ancho="921" cantidadProducto="618" delante="true" idPalet="5877" idProducto="TRUPOSYL HBD" largo="639" posicion="10"/>
+                <palet alto="998" ancho="634" cantidadProducto="376" delante="false" idPalet="957" idProducto="TRUPOSIST S-BO" largo="680" posicion="10"/>
+                <palet alto="728" ancho="673" cantidadProducto="402" delante="true" idPalet="1692" idProducto="TRUPOFIN CERA HP" largo="765" posicion="11"/>
+                <palet alto="819" ancho="842" cantidadProducto="864" delante="false" idPalet="51242" idProducto="TRUPOCRYL A-20" largo="859" posicion="11"/>
+                <palet alto="926" ancho="685" cantidadProducto="941" delante="false" idPalet="28616" idProducto="TRUPOCRYL A-30" largo="849" posicion="12"/>
+                <palet alto="1422" ancho="851" cantidadProducto="439" delante="false" idPalet="47573" idProducto="TRUPOCAL AF" largo="622" posicion="13"/>
+                <palet alto="725" ancho="714" cantidadProducto="609" delante="true" idPalet="55088" idProducto="TRUPOFIN CERA KT 09" largo="949" posicion="14"/>
+                <palet alto="654" ancho="578" cantidadProducto="572" delante="false" idPalet="40157" idProducto="TRUPOFIN CERA A" largo="722" posicion="14"/>
+                <palet alto="1429" ancho="900" cantidadProducto="781" delante="true" idPalet="64302" idProducto="TRUPOCRYL A-20" largo="519" posicion="15"/>
+                <palet alto="1226" ancho="660" cantidadProducto="897" delante="false" idPalet="5430" idProducto="TRUPONAT LA" largo="901" posicion="15"/>
+                <palet alto="686" ancho="644" cantidadProducto="513" delante="true" idPalet="19915" idProducto="TRUPOZYM CB" largo="812" posicion="16"/>
+                <palet alto="1392" ancho="707" cantidadProducto="315" delante="false" idPalet="16008" idProducto="TRUPOSYL HBD" largo="892" posicion="16"/>
+                <palet alto="1378" ancho="779" cantidadProducto="631" delante="false" idPalet="36448" idProducto="TRUPOCRYL A-20" largo="700" posicion="17"/>
+                <palet alto="833" ancho="512" cantidadProducto="585" delante="false" idPalet="94677" idProducto="TRUPOSEPT BA" largo="695" posicion="18"/>
+                <palet alto="1131" ancho="600" cantidadProducto="408" delante="true" idPalet="74333" idProducto="TRUKALIN K" largo="832" posicion="20"/>
+                <palet alto="1433" ancho="526" cantidadProducto="456" delante="true" idPalet="2059" idProducto="TRUPOFIN CERA 3A" largo="737" posicion="21"/>
+                <palet alto="1484" ancho="795" cantidadProducto="984" delante="false" idPalet="92731" idProducto="TRUPON PEM" largo="971" posicion="21"/>
+                <palet alto="692" ancho="734" cantidadProducto="914" delante="true" idPalet="59211" idProducto="TRUPON DBS" largo="677" posicion="22"/>
+                <palet alto="1349" ancho="982" cantidadProducto="916" delante="true" idPalet="6944" idProducto="TRUPOCAL DE" largo="966" posicion="23"/>
+            </balda>
+        </estanteria>
+    </estanterias>
+    <productos>
+        <producto idProducto="TRUPOSEPT FP" idTipo="Conservante"/>
+        <producto idProducto="SOLVOTAN XS" idTipo="Engrase"/>
+        <producto idProducto="TRUPONAT NF" idTipo="Calero"/>
+        <producto idProducto="TRUPOFIN CERA HF" idTipo="Cera"/>
+        <producto idProducto="TRUPOFIN CERA HS" idTipo="Cera"/>
+        <producto idProducto="TRUPOFIN CERA HP" idTipo="Cera"/>
+        <producto idProducto="TRUPOSEPT BA" idTipo="Conservante"/>
+        <producto idProducto="TRUPOFIN CERA PW" idTipo="Cera"/>
+        <producto idProducto="TRUPOSYL TBK-E" idTipo="Hidrofugante"/>
+        <producto idProducto="TRUPOFIN CERA PV" idTipo="Cera"/>
+        <producto idProducto="TRUPON AP" idTipo="Engrase"/>
+        <producto idProducto="TRUPOCAL AF" idTipo="Desencalante"/>
+        <producto idProducto="TRUPOSYL TBA" idTipo="Hidrofugante"/>
+        <producto idProducto="TRUPOSOL WBF" idTipo="Engrase"/>
+        <producto idProducto="TRUPOSYL TBD" idTipo="Hidrofugante"/>
+        <producto idProducto="TRUPON BMF" idTipo="Engrase"/>
+        <producto idProducto="TRUPOCRYL K-U-10" idTipo="Resina"/>
+        <producto idProducto="TRUPOFIN CERA DP" idTipo="Cera"/>
+        <producto idProducto="TRUPON CST" idTipo="Engrase"/>
+        <producto idProducto="TRUPON COL" idTipo="Engrase"/>
+        <producto idProducto="TRUPOSIST S-BO" idTipo="Hidrofugante"/>
+        <producto idProducto="TRUPOSYL TBK" idTipo="Hidrofugante"/>
+        <producto idProducto="PASTOSOL KC" idTipo="Secuestrante"/>
+        <producto idProducto="ANTIFOAM NSP" idTipo="Engrase"/>
+        <producto idProducto="TRUPOWET SA" idTipo="Remojo"/>
+        <producto idProducto="TRUPOFIN CERA CA" idTipo="Cera"/>
+        <producto idProducto="TRUPOFIN CERA SP" idTipo="Cera"/>
+        <producto idProducto="PASTOSOL HW" idTipo="Engrase"/>
+        <producto idProducto="TRUPOTAN MON" idTipo="Curtición"/>
+        <producto idProducto="PASTOSOL DG" idTipo="Tensoactivo"/>
+        <producto idProducto="TRUPOCRYL AB" idTipo="Resina"/>
+        <producto idProducto="TRUPOZYM AX" idTipo="Rindente"/>
+        <producto idProducto="TRUPOCRYL A-10" idTipo="Resina"/>
+        <producto idProducto="TRUPOFIN CERA 3A" idTipo="Cera"/>
+        <producto idProducto="TRUPOCAL DE" idTipo="Desencalante"/>
+        <producto idProducto="TRUKALIN K" idTipo="Secuestrante"/>
+        <producto idProducto="TRUPOZYM AB" idTipo="Rindente"/>
+        <producto idProducto="TRUPOCRYL A-18" idTipo="Resina"/>
+        <producto idProducto="SOLVOTAN TACTO" idTipo="Engrase"/>
+        <producto idProducto="TRUPONAT LA" idTipo="Calero"/>
+        <producto idProducto="TRUPOTEC S" idTipo="Hidrofugante"/>
+        <producto idProducto="TRUPOFIN CERA E" idTipo="Cera"/>
+        <producto idProducto="TRUPOFIN CERA P" idTipo="Cera"/>
+        <producto idProducto="TRUPON DBS" idTipo="Engrase"/>
+        <producto idProducto="TRUPOFIN CERA FP" idTipo="Cera"/>
+        <producto idProducto="TRUPOFIN CERA M" idTipo="Cera"/>
+        <producto idProducto="TRUPOFIN CERA K-A" idTipo="Cera"/>
+        <producto idProducto="TRUPOFIN CERA BT" idTipo="Cera"/>
+        <producto idProducto="TRUPOSYL ABS" idTipo="Hidrofugante"/>
+        <producto idProducto="TRUPOCRYL A-20" idTipo="Resina"/>
+        <producto idProducto="TRUPOFIN CERA KT 09" idTipo="Cera"/>
+        <producto idProducto="TRUPON DB-80" idTipo="Engrase"/>
+        <producto idProducto="TRUPOFIN CERA KT 08" idTipo="Cera"/>
+        <producto idProducto="TRUPON CM" idTipo="Engrase"/>
+        <producto idProducto="TRUPOFIN CERA W" idTipo="Cera"/>
+        <producto idProducto="TRUPOTEC T" idTipo="Hidrofugante"/>
+        <producto idProducto="TRUPOCRYL A-28" idTipo="Resina"/>
+        <producto idProducto="TRUPOCRYL K-U-310" idTipo="Resina"/>
+        <producto idProducto="TRUPOTAN MOW" idTipo="Curtición"/>
+        <producto idProducto="TRUPOCRYL K-A-30" idTipo="Resina"/>
+        <producto idProducto="PASTOSOL F" idTipo="Tensoactivo"/>
+        <producto idProducto="PASTOSOL MD" idTipo="Engrase"/>
+        <producto idProducto="TRUPOZYM CL" idTipo="Rindente"/>
+        <producto idProducto="TRUPOSLIP P" idTipo="Deslizante"/>
+        <producto idProducto="TRUPOZYM CN" idTipo="Rindente"/>
+        <producto idProducto="TRUPOL RK" idTipo="Engrase"/>
+        <producto idProducto="PASTOSOL BCN" idTipo="Tensoactivo"/>
+        <producto idProducto="TRUPOCRYL A–90" idTipo="Resina"/>
+        <producto idProducto="TRUPOSYL HBD" idTipo="Hidrofugante"/>
+        <producto idProducto="TRUPOTAN OM" idTipo="Curtición"/>
+        <producto idProducto="TRUPOSIST D" idTipo="Hidrofugante"/>
+        <producto idProducto="TRUPOCRYL A-30" idTipo="Resina"/>
+        <producto idProducto="TRUPOCRYL K-U-27" idTipo="Resina"/>
+        <producto idProducto="TRUPOCRYL A-32" idTipo="Resina"/>
+        <producto idProducto="TRUPOFIN CERA D-80" idTipo="Cera"/>
+        <producto idProducto="TRUPOWET PH" idTipo="Remojo"/>
+        <producto idProducto="TRUPON PEM" idTipo="Engrase"/>
+        <producto idProducto="TRUPOZYM CB" idTipo="Rindente"/>
+        <producto idProducto="TRUPOCRYL A-35" idTipo="Resina"/>
+        <producto idProducto="TRUPOFIN CERA A" idTipo="Cera"/>
+        <producto idProducto="TRUPOCRYL K-U-327" idTipo="Resina"/>
+        <producto idProducto="TRUPOZYM CH" idTipo="Rindente"/>
+    </productos>
+    <tipos>
+        <tipo color="0.8,0,0" idTipo="Tensoactivo"/>
+        <tipo color="0,0.8,0" idTipo="Secuestrante"/>
+        <tipo color="0,0,0.8" idTipo="Rindente"/>
+        <tipo color="0.8,0.8,0" idTipo="Remojo"/>
+        <tipo color="0.8,0,0.8" idTipo="Engrase"/>
+        <tipo color="0,0.8,0.8" idTipo="Desencalante"/>
+        <tipo color="0.5,0,0" idTipo="Conservante"/>
+        <tipo color="0,0.5,0" idTipo="Calero"/>
+        <tipo color="0,0,0.5" idTipo="Curtición"/>
+        <tipo color="0.8,0.5,0" idTipo="Deslizante"/>
+        <tipo color="0,0.8,0.5" idTipo="Hidrofugante"/>
+        <tipo color="0.8,0,0.5" idTipo="Resina"/>
+        <tipo color="0.5,0.5,0" idTipo="Cera"/>
+    </tipos>
+</almacen>
